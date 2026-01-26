@@ -1,0 +1,1001 @@
+reseller_id,reseller_name,phone,city,state,tier,join_date,reseller_status
+1,Reseller_0001,+918181241943,Meerut,Uttar Pradesh,Tier 3,2022-06-01 12:00:00,Active
+2,Reseller_0002,+917440213415,Indore,Madhya Pradesh,Tier 2,2022-06-02 00:00:00,Active
+3,Reseller_0003,+917373399426,Vijayawada,Andhra Pradesh,Tier 3,2022-06-02 12:00:00,Active
+4,Reseller_0004,+917127978094,Jaipur,Rajasthan,Tier 2,2022-06-03 00:00:00,Active
+5,Reseller_0005,+919170484433,Delhi,Delhi,Tier 1,2022-06-03 12:00:00,Active
+6,Reseller_0006,+917854001193,Vijayawada,Andhra Pradesh,Tier 3,2022-06-04 00:00:00,Active
+7,Reseller_0007,+919340505846,Mysore,Karnataka,Tier 3,2022-06-04 12:00:00,Churned
+8,Reseller_0008,+919530876844,Coimbatore,Tamil Nadu,Tier 2,2022-06-05 00:00:00,Inactive
+9,Reseller_0009,+917685731524,Jaipur,Rajasthan,Tier 2,2022-06-05 12:00:00,Active
+10,Reseller_0010,+918193448329,Ranchi,Jharkhand,Tier 3,2022-06-06 00:00:00,Churned
+11,Reseller_0011,+917438989805,Nagpur,Maharashtra,Tier 2,2022-06-06 12:00:00,Inactive
+12,Reseller_0012,+918541804686,Mumbai,Maharashtra,Tier 1,2022-06-07 00:00:00,Active
+13,Reseller_0013,+918136108454,Jodhpur,Rajasthan,Tier 3,2022-06-07 12:00:00,Active
+14,Reseller_0014,+918973214822,Mysore,Karnataka,Tier 3,2022-06-08 00:00:00,Active
+15,Reseller_0015,+917338444264,Vadodara,Gujarat,Tier 2,2022-06-08 12:00:00,Active
+16,Reseller_0016,+919656522106,Kochi,Kerala,Tier 2,2022-06-09 00:00:00,Inactive
+17,Reseller_0017,+919479708607,Ranchi,Jharkhand,Tier 3,2022-06-09 12:00:00,Inactive
+18,Reseller_0018,+917196814233,Lucknow,Uttar Pradesh,Tier 2,2022-06-10 00:00:00,Active
+19,Reseller_0019,+917342703921,Allahabad,Uttar Pradesh,Tier 3,2022-06-10 12:00:00,Churned
+20,Reseller_0020,+918632629719,Rajkot,Gujarat,Tier 3,2022-06-11 00:00:00,Inactive
+21,Reseller_0021,+918566942273,Kochi,Kerala,Tier 2,2022-06-11 12:00:00,Active
+22,Reseller_0022,+917899825838,Nagpur,Maharashtra,Tier 2,2022-06-12 00:00:00,Churned
+23,Reseller_0023,+919935814872,Mysore,Karnataka,Tier 3,2022-06-12 12:00:00,Churned
+24,Reseller_0024,+919727210979,Jodhpur,Rajasthan,Tier 3,2022-06-13 00:00:00,Churned
+25,Reseller_0025,+918051454923,Visakhapatnam,Andhra Pradesh,Tier 2,2022-06-13 12:00:00,Active
+26,Reseller_0026,+918159417075,Vadodara,Gujarat,Tier 2,2022-06-14 00:00:00,Inactive
+27,Reseller_0027,+919955633092,Raipur,Chhattisgarh,Tier 3,2022-06-14 12:00:00,Active
+28,Reseller_0028,+918392783743,Kochi,Kerala,Tier 2,2022-06-15 00:00:00,Inactive
+29,Reseller_0029,+917983753977,Meerut,Uttar Pradesh,Tier 3,2022-06-15 12:00:00,Churned
+30,Reseller_0030,+918722989659,Ranchi,Jharkhand,Tier 3,2022-06-16 00:00:00,Inactive
+31,Reseller_0031,+919436019774,Bhopal,Madhya Pradesh,Tier 2,2022-06-16 12:00:00,Inactive
+32,Reseller_0032,+917913224047,Ranchi,Jharkhand,Tier 3,2022-06-17 00:00:00,Churned
+33,Reseller_0033,+919761027762,Gwalior,Madhya Pradesh,Tier 3,2022-06-17 12:00:00,Inactive
+34,Reseller_0034,+917599707677,Patna,Bihar,Tier 2,2022-06-18 00:00:00,Active
+35,Reseller_0035,+919314889832,Ludhiana,Punjab,Tier 2,2022-06-18 12:00:00,Active
+36,Reseller_0036,+918840109255,Agra,Uttar Pradesh,Tier 2,2022-06-19 00:00:00,Active
+37,Reseller_0037,+918554762903,Gwalior,Madhya Pradesh,Tier 3,2022-06-19 12:00:00,Churned
+38,Reseller_0038,+919188398760,Indore,Madhya Pradesh,Tier 2,2022-06-20 00:00:00,Active
+39,Reseller_0039,+917470939445,Jaipur,Rajasthan,Tier 2,2022-06-20 12:00:00,Active
+40,Reseller_0040,+919922644564,Indore,Madhya Pradesh,Tier 2,2022-06-21 00:00:00,Active
+41,Reseller_0041,+918652563013,Lucknow,Uttar Pradesh,Tier 2,2022-06-21 12:00:00,Inactive
+42,Reseller_0042,+919272528809,Coimbatore,Tamil Nadu,Tier 2,2022-06-22 00:00:00,Churned
+43,Reseller_0043,+917049310608,Ludhiana,Punjab,Tier 2,2022-06-22 12:00:00,Churned
+44,Reseller_0044,+919927923735,Rajkot,Gujarat,Tier 3,2022-06-23 00:00:00,Active
+45,Reseller_0045,+919752909971,Allahabad,Uttar Pradesh,Tier 3,2022-06-23 12:00:00,Churned
+46,Reseller_0046,+918867302554,Patna,Bihar,Tier 2,2022-06-24 00:00:00,Inactive
+47,Reseller_0047,+918131247330,Jaipur,Rajasthan,Tier 2,2022-06-24 12:00:00,Active
+48,Reseller_0048,+919180476188,Varanasi,Uttar Pradesh,Tier 3,2022-06-25 00:00:00,Inactive
+49,Reseller_0049,+918281810600,Raipur,Chhattisgarh,Tier 3,2022-06-25 12:00:00,Active
+50,Reseller_0050,+919615507143,Vijayawada,Andhra Pradesh,Tier 3,2022-06-26 00:00:00,Active
+51,Reseller_0051,+917693847829,Nagpur,Maharashtra,Tier 2,2022-06-26 12:00:00,Inactive
+52,Reseller_0052,+917002456273,Ludhiana,Punjab,Tier 2,2022-06-27 00:00:00,Active
+53,Reseller_0053,+917083651970,Coimbatore,Tamil Nadu,Tier 2,2022-06-27 12:00:00,Active
+54,Reseller_0054,+918320763135,Bangalore,Karnataka,Tier 1,2022-06-28 00:00:00,Active
+55,Reseller_0055,+919436779490,Bhopal,Madhya Pradesh,Tier 2,2022-06-28 12:00:00,Active
+56,Reseller_0056,+919087313121,Rajkot,Gujarat,Tier 3,2022-06-29 00:00:00,Active
+57,Reseller_0057,+917540137296,Vijayawada,Andhra Pradesh,Tier 3,2022-06-29 12:00:00,Inactive
+58,Reseller_0058,+919361388464,Hyderabad,Telangana,Tier 1,2022-06-30 00:00:00,Inactive
+59,Reseller_0059,+919605301030,Ludhiana,Punjab,Tier 2,2022-06-30 12:00:00,Inactive
+60,Reseller_0060,+919316259067,Bhopal,Madhya Pradesh,Tier 2,2022-07-01 00:00:00,Inactive
+61,Reseller_0061,+917863937247,Mysore,Karnataka,Tier 3,2022-07-01 12:00:00,Inactive
+62,Reseller_0062,+919884873529,Gwalior,Madhya Pradesh,Tier 3,2022-07-02 00:00:00,Inactive
+63,Reseller_0063,+919222971316,Jabalpur,Madhya Pradesh,Tier 3,2022-07-02 12:00:00,Active
+64,Reseller_0064,+917965067727,Bhopal,Madhya Pradesh,Tier 2,2022-07-03 00:00:00,Active
+65,Reseller_0065,+919526766690,Mumbai,Maharashtra,Tier 1,2022-07-03 12:00:00,Active
+66,Reseller_0066,+917945826486,Agra,Uttar Pradesh,Tier 2,2022-07-04 00:00:00,Active
+67,Reseller_0067,+919710566582,Kolkata,West Bengal,Tier 1,2022-07-04 12:00:00,Active
+68,Reseller_0068,+917134917627,Mumbai,Maharashtra,Tier 1,2022-07-05 00:00:00,Active
+69,Reseller_0069,+919208283728,Rajkot,Gujarat,Tier 3,2022-07-05 12:00:00,Inactive
+70,Reseller_0070,+919084839399,Kochi,Kerala,Tier 2,2022-07-06 00:00:00,Churned
+71,Reseller_0071,+919452611418,Indore,Madhya Pradesh,Tier 2,2022-07-06 12:00:00,Inactive
+72,Reseller_0072,+919031403296,Bhopal,Madhya Pradesh,Tier 2,2022-07-07 00:00:00,Active
+73,Reseller_0073,+917405126228,Amritsar,Punjab,Tier 3,2022-07-07 12:00:00,Active
+74,Reseller_0074,+918521696479,Hyderabad,Telangana,Tier 1,2022-07-08 00:00:00,Churned
+75,Reseller_0075,+917232663462,Coimbatore,Tamil Nadu,Tier 2,2022-07-08 12:00:00,Churned
+76,Reseller_0076,+917422701550,Raipur,Chhattisgarh,Tier 3,2022-07-09 00:00:00,Active
+77,Reseller_0077,+918457293575,Kolkata,West Bengal,Tier 1,2022-07-09 12:00:00,Inactive
+78,Reseller_0078,+918067970820,Rajkot,Gujarat,Tier 3,2022-07-10 00:00:00,Active
+79,Reseller_0079,+918926780541,Ludhiana,Punjab,Tier 2,2022-07-10 12:00:00,Active
+80,Reseller_0080,+918196342297,Delhi,Delhi,Tier 1,2022-07-11 00:00:00,Active
+81,Reseller_0081,+918903232052,Lucknow,Uttar Pradesh,Tier 2,2022-07-11 12:00:00,Active
+82,Reseller_0082,+917420514789,Vijayawada,Andhra Pradesh,Tier 3,2022-07-12 00:00:00,Churned
+83,Reseller_0083,+917063384488,Chennai,Tamil Nadu,Tier 1,2022-07-12 12:00:00,Inactive
+84,Reseller_0084,+917714300770,Amritsar,Punjab,Tier 3,2022-07-13 00:00:00,Active
+85,Reseller_0085,+917918037633,Coimbatore,Tamil Nadu,Tier 2,2022-07-13 12:00:00,Inactive
+86,Reseller_0086,+917707111048,Meerut,Uttar Pradesh,Tier 3,2022-07-14 00:00:00,Churned
+87,Reseller_0087,+918139038460,Vadodara,Gujarat,Tier 2,2022-07-14 12:00:00,Churned
+88,Reseller_0088,+918225136114,Jabalpur,Madhya Pradesh,Tier 3,2022-07-15 00:00:00,Active
+89,Reseller_0089,+919387006772,Visakhapatnam,Andhra Pradesh,Tier 2,2022-07-15 12:00:00,Active
+90,Reseller_0090,+917664847319,Jabalpur,Madhya Pradesh,Tier 3,2022-07-16 00:00:00,Active
+91,Reseller_0091,+917251183830,Bhopal,Madhya Pradesh,Tier 2,2022-07-16 12:00:00,Active
+92,Reseller_0092,+917261810763,Ludhiana,Punjab,Tier 2,2022-07-17 00:00:00,Active
+93,Reseller_0093,+917215359682,Meerut,Uttar Pradesh,Tier 3,2022-07-17 12:00:00,Inactive
+94,Reseller_0094,+919281169403,Ludhiana,Punjab,Tier 2,2022-07-18 00:00:00,Active
+95,Reseller_0095,+917344076115,Ludhiana,Punjab,Tier 2,2022-07-18 12:00:00,Active
+96,Reseller_0096,+919555656321,Rajkot,Gujarat,Tier 3,2022-07-19 00:00:00,Active
+97,Reseller_0097,+918010193046,Pune,Maharashtra,Tier 1,2022-07-19 12:00:00,Active
+98,Reseller_0098,+918057486868,Agra,Uttar Pradesh,Tier 2,2022-07-20 00:00:00,Active
+99,Reseller_0099,+919660223333,Jaipur,Rajasthan,Tier 2,2022-07-20 12:00:00,Active
+100,Reseller_0100,+919506853388,Kolkata,West Bengal,Tier 1,2022-07-21 00:00:00,Active
+101,Reseller_0101,+918119980130,Nagpur,Maharashtra,Tier 2,2022-07-21 12:00:00,Active
+102,Reseller_0102,+918349409434,Visakhapatnam,Andhra Pradesh,Tier 2,2022-07-22 00:00:00,Active
+103,Reseller_0103,+917562117925,Vadodara,Gujarat,Tier 2,2022-07-22 12:00:00,Inactive
+104,Reseller_0104,+918963764597,Allahabad,Uttar Pradesh,Tier 3,2022-07-23 00:00:00,Active
+105,Reseller_0105,+917040009587,Lucknow,Uttar Pradesh,Tier 2,2022-07-23 12:00:00,Active
+106,Reseller_0106,+917429416213,Agra,Uttar Pradesh,Tier 2,2022-07-24 00:00:00,Active
+107,Reseller_0107,+919172758220,Delhi,Delhi,Tier 1,2022-07-24 12:00:00,Churned
+108,Reseller_0108,+917295456419,Nagpur,Maharashtra,Tier 2,2022-07-25 00:00:00,Active
+109,Reseller_0109,+918224011538,Ranchi,Jharkhand,Tier 3,2022-07-25 12:00:00,Inactive
+110,Reseller_0110,+918299301222,Ludhiana,Punjab,Tier 2,2022-07-26 00:00:00,Churned
+111,Reseller_0111,+919271782991,Raipur,Chhattisgarh,Tier 3,2022-07-26 12:00:00,Active
+112,Reseller_0112,+919381998678,Pune,Maharashtra,Tier 1,2022-07-27 00:00:00,Churned
+113,Reseller_0113,+917444900634,Kochi,Kerala,Tier 2,2022-07-27 12:00:00,Inactive
+114,Reseller_0114,+918135872495,Varanasi,Uttar Pradesh,Tier 3,2022-07-28 00:00:00,Active
+115,Reseller_0115,+919376077463,Mumbai,Maharashtra,Tier 1,2022-07-28 12:00:00,Active
+116,Reseller_0116,+919597724331,Patna,Bihar,Tier 2,2022-07-29 00:00:00,Inactive
+117,Reseller_0117,+917874443787,Nagpur,Maharashtra,Tier 2,2022-07-29 12:00:00,Active
+118,Reseller_0118,+919170715377,Allahabad,Uttar Pradesh,Tier 3,2022-07-30 00:00:00,Churned
+119,Reseller_0119,+917396418889,Jaipur,Rajasthan,Tier 2,2022-07-30 12:00:00,Active
+120,Reseller_0120,+917189351213,Allahabad,Uttar Pradesh,Tier 3,2022-07-31 00:00:00,Inactive
+121,Reseller_0121,+917561866144,Pune,Maharashtra,Tier 1,2022-07-31 12:00:00,Active
+122,Reseller_0122,+917693989311,Allahabad,Uttar Pradesh,Tier 3,2022-08-01 00:00:00,Inactive
+123,Reseller_0123,+918836901321,Vijayawada,Andhra Pradesh,Tier 3,2022-08-01 12:00:00,Inactive
+124,Reseller_0124,+917323169889,Lucknow,Uttar Pradesh,Tier 2,2022-08-02 00:00:00,Active
+125,Reseller_0125,+917640183291,Mysore,Karnataka,Tier 3,2022-08-02 12:00:00,Active
+126,Reseller_0126,+919501859536,Nagpur,Maharashtra,Tier 2,2022-08-03 00:00:00,Active
+127,Reseller_0127,+917547374338,Vadodara,Gujarat,Tier 2,2022-08-03 12:00:00,Active
+128,Reseller_0128,+917171347175,Bangalore,Karnataka,Tier 1,2022-08-04 00:00:00,Active
+129,Reseller_0129,+919929454134,Amritsar,Punjab,Tier 3,2022-08-04 12:00:00,Inactive
+130,Reseller_0130,+918519038154,Lucknow,Uttar Pradesh,Tier 2,2022-08-05 00:00:00,Active
+131,Reseller_0131,+919665720874,Gwalior,Madhya Pradesh,Tier 3,2022-08-05 12:00:00,Inactive
+132,Reseller_0132,+917697939765,Amritsar,Punjab,Tier 3,2022-08-06 00:00:00,Churned
+133,Reseller_0133,+918770791023,Varanasi,Uttar Pradesh,Tier 3,2022-08-06 12:00:00,Inactive
+134,Reseller_0134,+918426725702,Kolkata,West Bengal,Tier 1,2022-08-07 00:00:00,Inactive
+135,Reseller_0135,+919877229210,Gwalior,Madhya Pradesh,Tier 3,2022-08-07 12:00:00,Inactive
+136,Reseller_0136,+918145921803,Amritsar,Punjab,Tier 3,2022-08-08 00:00:00,Active
+137,Reseller_0137,+917464267175,Visakhapatnam,Andhra Pradesh,Tier 2,2022-08-08 12:00:00,Active
+138,Reseller_0138,+919021598245,Jaipur,Rajasthan,Tier 2,2022-08-09 00:00:00,Active
+139,Reseller_0139,+918501771491,Coimbatore,Tamil Nadu,Tier 2,2022-08-09 12:00:00,Active
+140,Reseller_0140,+917957449367,Bhopal,Madhya Pradesh,Tier 2,2022-08-10 00:00:00,Active
+141,Reseller_0141,+918711398352,Delhi,Delhi,Tier 1,2022-08-10 12:00:00,Active
+142,Reseller_0142,+918198832728,Lucknow,Uttar Pradesh,Tier 2,2022-08-11 00:00:00,Churned
+143,Reseller_0143,+918716605598,Ludhiana,Punjab,Tier 2,2022-08-11 12:00:00,Inactive
+144,Reseller_0144,+918422277848,Vijayawada,Andhra Pradesh,Tier 3,2022-08-12 00:00:00,Active
+145,Reseller_0145,+918121910732,Rajkot,Gujarat,Tier 3,2022-08-12 12:00:00,Active
+146,Reseller_0146,+917164313410,Patna,Bihar,Tier 2,2022-08-13 00:00:00,Active
+147,Reseller_0147,+918484714820,Hyderabad,Telangana,Tier 1,2022-08-13 12:00:00,Active
+148,Reseller_0148,+918874297457,Ranchi,Jharkhand,Tier 3,2022-08-14 00:00:00,Active
+149,Reseller_0149,+917496694873,Vijayawada,Andhra Pradesh,Tier 3,2022-08-14 12:00:00,Inactive
+150,Reseller_0150,+917816382125,Agra,Uttar Pradesh,Tier 2,2022-08-15 00:00:00,Active
+151,Reseller_0151,+918872852789,Visakhapatnam,Andhra Pradesh,Tier 2,2022-08-15 12:00:00,Inactive
+152,Reseller_0152,+919312633708,Pune,Maharashtra,Tier 1,2022-08-16 00:00:00,Churned
+153,Reseller_0153,+919880327491,Mysore,Karnataka,Tier 3,2022-08-16 12:00:00,Active
+154,Reseller_0154,+917300535210,Vadodara,Gujarat,Tier 2,2022-08-17 00:00:00,Inactive
+155,Reseller_0155,+919676432103,Ranchi,Jharkhand,Tier 3,2022-08-17 12:00:00,Inactive
+156,Reseller_0156,+918289874320,Lucknow,Uttar Pradesh,Tier 2,2022-08-18 00:00:00,Active
+157,Reseller_0157,+918754034197,Kochi,Kerala,Tier 2,2022-08-18 12:00:00,Active
+158,Reseller_0158,+918269829408,Visakhapatnam,Andhra Pradesh,Tier 2,2022-08-19 00:00:00,Inactive
+159,Reseller_0159,+918805803262,Bhopal,Madhya Pradesh,Tier 2,2022-08-19 12:00:00,Inactive
+160,Reseller_0160,+919909058412,Gwalior,Madhya Pradesh,Tier 3,2022-08-20 00:00:00,Inactive
+161,Reseller_0161,+919643616431,Varanasi,Uttar Pradesh,Tier 3,2022-08-20 12:00:00,Churned
+162,Reseller_0162,+919353372386,Vadodara,Gujarat,Tier 2,2022-08-21 00:00:00,Inactive
+163,Reseller_0163,+918232285036,Allahabad,Uttar Pradesh,Tier 3,2022-08-21 12:00:00,Churned
+164,Reseller_0164,+919605591588,Agra,Uttar Pradesh,Tier 2,2022-08-22 00:00:00,Inactive
+165,Reseller_0165,+918897456484,Jabalpur,Madhya Pradesh,Tier 3,2022-08-22 12:00:00,Inactive
+166,Reseller_0166,+919195475598,Bhopal,Madhya Pradesh,Tier 2,2022-08-23 00:00:00,Inactive
+167,Reseller_0167,+917728818981,Visakhapatnam,Andhra Pradesh,Tier 2,2022-08-23 12:00:00,Active
+168,Reseller_0168,+919213849513,Allahabad,Uttar Pradesh,Tier 3,2022-08-24 00:00:00,Inactive
+169,Reseller_0169,+918439622619,Jodhpur,Rajasthan,Tier 3,2022-08-24 12:00:00,Active
+170,Reseller_0170,+918008752943,Pune,Maharashtra,Tier 1,2022-08-25 00:00:00,Active
+171,Reseller_0171,+917855256552,Amritsar,Punjab,Tier 3,2022-08-25 12:00:00,Churned
+172,Reseller_0172,+918051590706,Mumbai,Maharashtra,Tier 1,2022-08-26 00:00:00,Active
+173,Reseller_0173,+917312794864,Jodhpur,Rajasthan,Tier 3,2022-08-26 12:00:00,Active
+174,Reseller_0174,+919472487690,Kochi,Kerala,Tier 2,2022-08-27 00:00:00,Inactive
+175,Reseller_0175,+918649174966,Visakhapatnam,Andhra Pradesh,Tier 2,2022-08-27 12:00:00,Inactive
+176,Reseller_0176,+917633814084,Bhopal,Madhya Pradesh,Tier 2,2022-08-28 00:00:00,Active
+177,Reseller_0177,+917457788949,Meerut,Uttar Pradesh,Tier 3,2022-08-28 12:00:00,Inactive
+178,Reseller_0178,+917755427535,Amritsar,Punjab,Tier 3,2022-08-29 00:00:00,Inactive
+179,Reseller_0179,+919224611603,Mysore,Karnataka,Tier 3,2022-08-29 12:00:00,Active
+180,Reseller_0180,+918070298438,Ludhiana,Punjab,Tier 2,2022-08-30 00:00:00,Active
+181,Reseller_0181,+918960488639,Rajkot,Gujarat,Tier 3,2022-08-30 12:00:00,Inactive
+182,Reseller_0182,+919867224513,Hyderabad,Telangana,Tier 1,2022-08-31 00:00:00,Active
+183,Reseller_0183,+919557448229,Ludhiana,Punjab,Tier 2,2022-08-31 12:00:00,Active
+184,Reseller_0184,+919631321682,Coimbatore,Tamil Nadu,Tier 2,2022-09-01 00:00:00,Inactive
+185,Reseller_0185,+918832837596,Vijayawada,Andhra Pradesh,Tier 3,2022-09-01 12:00:00,Active
+186,Reseller_0186,+918915184358,Vijayawada,Andhra Pradesh,Tier 3,2022-09-02 00:00:00,Active
+187,Reseller_0187,+919038711176,Mysore,Karnataka,Tier 3,2022-09-02 12:00:00,Active
+188,Reseller_0188,+919738735023,Bhopal,Madhya Pradesh,Tier 2,2022-09-03 00:00:00,Inactive
+189,Reseller_0189,+919081328344,Ludhiana,Punjab,Tier 2,2022-09-03 12:00:00,Active
+190,Reseller_0190,+918889238423,Allahabad,Uttar Pradesh,Tier 3,2022-09-04 00:00:00,Inactive
+191,Reseller_0191,+918007142260,Bangalore,Karnataka,Tier 1,2022-09-04 12:00:00,Active
+192,Reseller_0192,+919319936135,Nagpur,Maharashtra,Tier 2,2022-09-05 00:00:00,Inactive
+193,Reseller_0193,+917993260504,Delhi,Delhi,Tier 1,2022-09-05 12:00:00,Active
+194,Reseller_0194,+917918920620,Indore,Madhya Pradesh,Tier 2,2022-09-06 00:00:00,Churned
+195,Reseller_0195,+918421124738,Hyderabad,Telangana,Tier 1,2022-09-06 12:00:00,Active
+196,Reseller_0196,+917267429212,Vadodara,Gujarat,Tier 2,2022-09-07 00:00:00,Churned
+197,Reseller_0197,+918672790155,Vadodara,Gujarat,Tier 2,2022-09-07 12:00:00,Inactive
+198,Reseller_0198,+919987248494,Jodhpur,Rajasthan,Tier 3,2022-09-08 00:00:00,Active
+199,Reseller_0199,+919472571231,Pune,Maharashtra,Tier 1,2022-09-08 12:00:00,Inactive
+200,Reseller_0200,+918510792572,Jaipur,Rajasthan,Tier 2,2022-09-09 00:00:00,Active
+201,Reseller_0201,+918799682701,Vadodara,Gujarat,Tier 2,2022-09-09 12:00:00,Active
+202,Reseller_0202,+919345620385,Visakhapatnam,Andhra Pradesh,Tier 2,2022-09-10 00:00:00,Active
+203,Reseller_0203,+919096929657,Amritsar,Punjab,Tier 3,2022-09-10 12:00:00,Active
+204,Reseller_0204,+919085816511,Vadodara,Gujarat,Tier 2,2022-09-11 00:00:00,Active
+205,Reseller_0205,+919872790327,Bangalore,Karnataka,Tier 1,2022-09-11 12:00:00,Active
+206,Reseller_0206,+917708861714,Gwalior,Madhya Pradesh,Tier 3,2022-09-12 00:00:00,Churned
+207,Reseller_0207,+919672573305,Varanasi,Uttar Pradesh,Tier 3,2022-09-12 12:00:00,Active
+208,Reseller_0208,+919542160120,Vadodara,Gujarat,Tier 2,2022-09-13 00:00:00,Active
+209,Reseller_0209,+917360551585,Jaipur,Rajasthan,Tier 2,2022-09-13 12:00:00,Active
+210,Reseller_0210,+918982979741,Varanasi,Uttar Pradesh,Tier 3,2022-09-14 00:00:00,Active
+211,Reseller_0211,+918628238707,Patna,Bihar,Tier 2,2022-09-14 12:00:00,Active
+212,Reseller_0212,+918403792057,Coimbatore,Tamil Nadu,Tier 2,2022-09-15 00:00:00,Inactive
+213,Reseller_0213,+918195103064,Vadodara,Gujarat,Tier 2,2022-09-15 12:00:00,Active
+214,Reseller_0214,+918083497965,Gwalior,Madhya Pradesh,Tier 3,2022-09-16 00:00:00,Active
+215,Reseller_0215,+917083250566,Jabalpur,Madhya Pradesh,Tier 3,2022-09-16 12:00:00,Active
+216,Reseller_0216,+918503068227,Meerut,Uttar Pradesh,Tier 3,2022-09-17 00:00:00,Active
+217,Reseller_0217,+919799264931,Lucknow,Uttar Pradesh,Tier 2,2022-09-17 12:00:00,Churned
+218,Reseller_0218,+918062073697,Mumbai,Maharashtra,Tier 1,2022-09-18 00:00:00,Active
+219,Reseller_0219,+919668616333,Jaipur,Rajasthan,Tier 2,2022-09-18 12:00:00,Inactive
+220,Reseller_0220,+919033929266,Indore,Madhya Pradesh,Tier 2,2022-09-19 00:00:00,Churned
+221,Reseller_0221,+917936150587,Jodhpur,Rajasthan,Tier 3,2022-09-19 12:00:00,Active
+222,Reseller_0222,+918584392711,Patna,Bihar,Tier 2,2022-09-20 00:00:00,Churned
+223,Reseller_0223,+917491914923,Agra,Uttar Pradesh,Tier 2,2022-09-20 12:00:00,Active
+224,Reseller_0224,+918335901990,Varanasi,Uttar Pradesh,Tier 3,2022-09-21 00:00:00,Inactive
+225,Reseller_0225,+918339846171,Mumbai,Maharashtra,Tier 1,2022-09-21 12:00:00,Active
+226,Reseller_0226,+918703617827,Vadodara,Gujarat,Tier 2,2022-09-22 00:00:00,Inactive
+227,Reseller_0227,+917326402374,Amritsar,Punjab,Tier 3,2022-09-22 12:00:00,Active
+228,Reseller_0228,+918043030161,Kochi,Kerala,Tier 2,2022-09-23 00:00:00,Active
+229,Reseller_0229,+918295287749,Pune,Maharashtra,Tier 1,2022-09-23 12:00:00,Active
+230,Reseller_0230,+917519927529,Jodhpur,Rajasthan,Tier 3,2022-09-24 00:00:00,Inactive
+231,Reseller_0231,+917176390590,Jodhpur,Rajasthan,Tier 3,2022-09-24 12:00:00,Inactive
+232,Reseller_0232,+919841212515,Vadodara,Gujarat,Tier 2,2022-09-25 00:00:00,Inactive
+233,Reseller_0233,+919781177100,Ludhiana,Punjab,Tier 2,2022-09-25 12:00:00,Active
+234,Reseller_0234,+919105400301,Vadodara,Gujarat,Tier 2,2022-09-26 00:00:00,Churned
+235,Reseller_0235,+919729817240,Bangalore,Karnataka,Tier 1,2022-09-26 12:00:00,Active
+236,Reseller_0236,+917657091982,Jabalpur,Madhya Pradesh,Tier 3,2022-09-27 00:00:00,Active
+237,Reseller_0237,+919240885202,Visakhapatnam,Andhra Pradesh,Tier 2,2022-09-27 12:00:00,Active
+238,Reseller_0238,+919645323395,Allahabad,Uttar Pradesh,Tier 3,2022-09-28 00:00:00,Inactive
+239,Reseller_0239,+919076605983,Vijayawada,Andhra Pradesh,Tier 3,2022-09-28 12:00:00,Active
+240,Reseller_0240,+919544659112,Visakhapatnam,Andhra Pradesh,Tier 2,2022-09-29 00:00:00,Inactive
+241,Reseller_0241,+917372214308,Bhopal,Madhya Pradesh,Tier 2,2022-09-29 12:00:00,Inactive
+242,Reseller_0242,+918047385483,Coimbatore,Tamil Nadu,Tier 2,2022-09-30 00:00:00,Active
+243,Reseller_0243,+919621354709,Jodhpur,Rajasthan,Tier 3,2022-09-30 12:00:00,Active
+244,Reseller_0244,+917123265537,Ranchi,Jharkhand,Tier 3,2022-10-01 00:00:00,Active
+245,Reseller_0245,+917780996231,Nagpur,Maharashtra,Tier 2,2022-10-01 12:00:00,Active
+246,Reseller_0246,+918109615163,Nagpur,Maharashtra,Tier 2,2022-10-02 00:00:00,Active
+247,Reseller_0247,+918186564497,Agra,Uttar Pradesh,Tier 2,2022-10-02 12:00:00,Active
+248,Reseller_0248,+917820581106,Ludhiana,Punjab,Tier 2,2022-10-03 00:00:00,Inactive
+249,Reseller_0249,+918745595491,Kolkata,West Bengal,Tier 1,2022-10-03 12:00:00,Active
+250,Reseller_0250,+919966144543,Bhopal,Madhya Pradesh,Tier 2,2022-10-04 00:00:00,Inactive
+251,Reseller_0251,+919108061573,Visakhapatnam,Andhra Pradesh,Tier 2,2022-10-04 12:00:00,Inactive
+252,Reseller_0252,+917399661102,Jaipur,Rajasthan,Tier 2,2022-10-05 00:00:00,Inactive
+253,Reseller_0253,+919971203213,Vadodara,Gujarat,Tier 2,2022-10-05 12:00:00,Inactive
+254,Reseller_0254,+919497762234,Kochi,Kerala,Tier 2,2022-10-06 00:00:00,Inactive
+255,Reseller_0255,+919280292341,Ludhiana,Punjab,Tier 2,2022-10-06 12:00:00,Active
+256,Reseller_0256,+919363900493,Visakhapatnam,Andhra Pradesh,Tier 2,2022-10-07 00:00:00,Active
+257,Reseller_0257,+918948821078,Visakhapatnam,Andhra Pradesh,Tier 2,2022-10-07 12:00:00,Churned
+258,Reseller_0258,+917990153355,Patna,Bihar,Tier 2,2022-10-08 00:00:00,Inactive
+259,Reseller_0259,+918355268102,Delhi,Delhi,Tier 1,2022-10-08 12:00:00,Active
+260,Reseller_0260,+919964229896,Chennai,Tamil Nadu,Tier 1,2022-10-09 00:00:00,Active
+261,Reseller_0261,+919079617090,Bhopal,Madhya Pradesh,Tier 2,2022-10-09 12:00:00,Active
+262,Reseller_0262,+919253298195,Agra,Uttar Pradesh,Tier 2,2022-10-10 00:00:00,Churned
+263,Reseller_0263,+917833728665,Lucknow,Uttar Pradesh,Tier 2,2022-10-10 12:00:00,Active
+264,Reseller_0264,+917770695571,Nagpur,Maharashtra,Tier 2,2022-10-11 00:00:00,Active
+265,Reseller_0265,+919294092753,Visakhapatnam,Andhra Pradesh,Tier 2,2022-10-11 12:00:00,Active
+266,Reseller_0266,+917234187462,Mumbai,Maharashtra,Tier 1,2022-10-12 00:00:00,Active
+267,Reseller_0267,+917542366274,Visakhapatnam,Andhra Pradesh,Tier 2,2022-10-12 12:00:00,Churned
+268,Reseller_0268,+917440610570,Jabalpur,Madhya Pradesh,Tier 3,2022-10-13 00:00:00,Active
+269,Reseller_0269,+918221228113,Jodhpur,Rajasthan,Tier 3,2022-10-13 12:00:00,Inactive
+270,Reseller_0270,+918463320861,Coimbatore,Tamil Nadu,Tier 2,2022-10-14 00:00:00,Active
+271,Reseller_0271,+918084386400,Jaipur,Rajasthan,Tier 2,2022-10-14 12:00:00,Inactive
+272,Reseller_0272,+917490000526,Jabalpur,Madhya Pradesh,Tier 3,2022-10-15 00:00:00,Active
+273,Reseller_0273,+919112035409,Gwalior,Madhya Pradesh,Tier 3,2022-10-15 12:00:00,Active
+274,Reseller_0274,+919948284698,Kolkata,West Bengal,Tier 1,2022-10-16 00:00:00,Inactive
+275,Reseller_0275,+919417377633,Delhi,Delhi,Tier 1,2022-10-16 12:00:00,Churned
+276,Reseller_0276,+918065972034,Rajkot,Gujarat,Tier 3,2022-10-17 00:00:00,Churned
+277,Reseller_0277,+918787453807,Pune,Maharashtra,Tier 1,2022-10-17 12:00:00,Inactive
+278,Reseller_0278,+917969318858,Jodhpur,Rajasthan,Tier 3,2022-10-18 00:00:00,Churned
+279,Reseller_0279,+918934944879,Gwalior,Madhya Pradesh,Tier 3,2022-10-18 12:00:00,Active
+280,Reseller_0280,+919527696207,Allahabad,Uttar Pradesh,Tier 3,2022-10-19 00:00:00,Churned
+281,Reseller_0281,+919442244963,Allahabad,Uttar Pradesh,Tier 3,2022-10-19 12:00:00,Active
+282,Reseller_0282,+917426204934,Jodhpur,Rajasthan,Tier 3,2022-10-20 00:00:00,Inactive
+283,Reseller_0283,+919686566602,Amritsar,Punjab,Tier 3,2022-10-20 12:00:00,Inactive
+284,Reseller_0284,+917348697524,Kochi,Kerala,Tier 2,2022-10-21 00:00:00,Inactive
+285,Reseller_0285,+919370788647,Indore,Madhya Pradesh,Tier 2,2022-10-21 12:00:00,Active
+286,Reseller_0286,+918754569613,Mumbai,Maharashtra,Tier 1,2022-10-22 00:00:00,Active
+287,Reseller_0287,+919018258729,Agra,Uttar Pradesh,Tier 2,2022-10-22 12:00:00,Inactive
+288,Reseller_0288,+918237401063,Bhopal,Madhya Pradesh,Tier 2,2022-10-23 00:00:00,Active
+289,Reseller_0289,+918950049698,Mysore,Karnataka,Tier 3,2022-10-23 12:00:00,Churned
+290,Reseller_0290,+918136253459,Delhi,Delhi,Tier 1,2022-10-24 00:00:00,Inactive
+291,Reseller_0291,+919533126989,Raipur,Chhattisgarh,Tier 3,2022-10-24 12:00:00,Active
+292,Reseller_0292,+918825957977,Amritsar,Punjab,Tier 3,2022-10-25 00:00:00,Inactive
+293,Reseller_0293,+919781569954,Delhi,Delhi,Tier 1,2022-10-25 12:00:00,Active
+294,Reseller_0294,+917610900200,Bangalore,Karnataka,Tier 1,2022-10-26 00:00:00,Inactive
+295,Reseller_0295,+918321182659,Delhi,Delhi,Tier 1,2022-10-26 12:00:00,Inactive
+296,Reseller_0296,+918239573053,Agra,Uttar Pradesh,Tier 2,2022-10-27 00:00:00,Active
+297,Reseller_0297,+919957849462,Coimbatore,Tamil Nadu,Tier 2,2022-10-27 12:00:00,Active
+298,Reseller_0298,+918169288485,Vadodara,Gujarat,Tier 2,2022-10-28 00:00:00,Churned
+299,Reseller_0299,+918880160025,Coimbatore,Tamil Nadu,Tier 2,2022-10-28 12:00:00,Active
+300,Reseller_0300,+918855548990,Mumbai,Maharashtra,Tier 1,2022-10-29 00:00:00,Inactive
+301,Reseller_0301,+918075321966,Jodhpur,Rajasthan,Tier 3,2022-10-29 12:00:00,Active
+302,Reseller_0302,+919896089430,Delhi,Delhi,Tier 1,2022-10-30 00:00:00,Active
+303,Reseller_0303,+919521673791,Jodhpur,Rajasthan,Tier 3,2022-10-30 12:00:00,Active
+304,Reseller_0304,+918157541038,Raipur,Chhattisgarh,Tier 3,2022-10-31 00:00:00,Active
+305,Reseller_0305,+919020785643,Indore,Madhya Pradesh,Tier 2,2022-10-31 12:00:00,Active
+306,Reseller_0306,+918194673401,Coimbatore,Tamil Nadu,Tier 2,2022-11-01 00:00:00,Inactive
+307,Reseller_0307,+918872111746,Agra,Uttar Pradesh,Tier 2,2022-11-01 12:00:00,Active
+308,Reseller_0308,+917391883149,Jabalpur,Madhya Pradesh,Tier 3,2022-11-02 00:00:00,Active
+309,Reseller_0309,+918431548670,Vadodara,Gujarat,Tier 2,2022-11-02 12:00:00,Active
+310,Reseller_0310,+917690737494,Lucknow,Uttar Pradesh,Tier 2,2022-11-03 00:00:00,Active
+311,Reseller_0311,+919128023255,Visakhapatnam,Andhra Pradesh,Tier 2,2022-11-03 12:00:00,Active
+312,Reseller_0312,+919362646960,Vadodara,Gujarat,Tier 2,2022-11-04 00:00:00,Inactive
+313,Reseller_0313,+918350840898,Mumbai,Maharashtra,Tier 1,2022-11-04 12:00:00,Inactive
+314,Reseller_0314,+918735918651,Lucknow,Uttar Pradesh,Tier 2,2022-11-05 00:00:00,Active
+315,Reseller_0315,+919824629834,Meerut,Uttar Pradesh,Tier 3,2022-11-05 12:00:00,Churned
+316,Reseller_0316,+918774884818,Jabalpur,Madhya Pradesh,Tier 3,2022-11-06 00:00:00,Inactive
+317,Reseller_0317,+918553830525,Chennai,Tamil Nadu,Tier 1,2022-11-06 12:00:00,Active
+318,Reseller_0318,+919686110098,Jabalpur,Madhya Pradesh,Tier 3,2022-11-07 00:00:00,Churned
+319,Reseller_0319,+917874275988,Jaipur,Rajasthan,Tier 2,2022-11-07 12:00:00,Churned
+320,Reseller_0320,+918237075775,Indore,Madhya Pradesh,Tier 2,2022-11-08 00:00:00,Active
+321,Reseller_0321,+919081821325,Visakhapatnam,Andhra Pradesh,Tier 2,2022-11-08 12:00:00,Active
+322,Reseller_0322,+919615083895,Kolkata,West Bengal,Tier 1,2022-11-09 00:00:00,Churned
+323,Reseller_0323,+917680229045,Mysore,Karnataka,Tier 3,2022-11-09 12:00:00,Inactive
+324,Reseller_0324,+919371901750,Jaipur,Rajasthan,Tier 2,2022-11-10 00:00:00,Active
+325,Reseller_0325,+917487311805,Bhopal,Madhya Pradesh,Tier 2,2022-11-10 12:00:00,Inactive
+326,Reseller_0326,+919781891923,Lucknow,Uttar Pradesh,Tier 2,2022-11-11 00:00:00,Inactive
+327,Reseller_0327,+918253535854,Jabalpur,Madhya Pradesh,Tier 3,2022-11-11 12:00:00,Inactive
+328,Reseller_0328,+918784517419,Patna,Bihar,Tier 2,2022-11-12 00:00:00,Inactive
+329,Reseller_0329,+918046816259,Jabalpur,Madhya Pradesh,Tier 3,2022-11-12 12:00:00,Inactive
+330,Reseller_0330,+918647489402,Indore,Madhya Pradesh,Tier 2,2022-11-13 00:00:00,Active
+331,Reseller_0331,+919182878006,Agra,Uttar Pradesh,Tier 2,2022-11-13 12:00:00,Active
+332,Reseller_0332,+917299832023,Varanasi,Uttar Pradesh,Tier 3,2022-11-14 00:00:00,Inactive
+333,Reseller_0333,+918459753033,Vadodara,Gujarat,Tier 2,2022-11-14 12:00:00,Churned
+334,Reseller_0334,+918147497835,Vijayawada,Andhra Pradesh,Tier 3,2022-11-15 00:00:00,Active
+335,Reseller_0335,+918282287615,Allahabad,Uttar Pradesh,Tier 3,2022-11-15 12:00:00,Inactive
+336,Reseller_0336,+919834423953,Jodhpur,Rajasthan,Tier 3,2022-11-16 00:00:00,Inactive
+337,Reseller_0337,+918917906456,Indore,Madhya Pradesh,Tier 2,2022-11-16 12:00:00,Active
+338,Reseller_0338,+918427818730,Nagpur,Maharashtra,Tier 2,2022-11-17 00:00:00,Inactive
+339,Reseller_0339,+918620104855,Ludhiana,Punjab,Tier 2,2022-11-17 12:00:00,Churned
+340,Reseller_0340,+917810255760,Nagpur,Maharashtra,Tier 2,2022-11-18 00:00:00,Inactive
+341,Reseller_0341,+919455852189,Amritsar,Punjab,Tier 3,2022-11-18 12:00:00,Active
+342,Reseller_0342,+917187463722,Vadodara,Gujarat,Tier 2,2022-11-19 00:00:00,Active
+343,Reseller_0343,+918637375316,Coimbatore,Tamil Nadu,Tier 2,2022-11-19 12:00:00,Inactive
+344,Reseller_0344,+919800400286,Kochi,Kerala,Tier 2,2022-11-20 00:00:00,Active
+345,Reseller_0345,+917158998032,Jabalpur,Madhya Pradesh,Tier 3,2022-11-20 12:00:00,Active
+346,Reseller_0346,+918425906387,Chennai,Tamil Nadu,Tier 1,2022-11-21 00:00:00,Active
+347,Reseller_0347,+917428258482,Jabalpur,Madhya Pradesh,Tier 3,2022-11-21 12:00:00,Active
+348,Reseller_0348,+917065917432,Coimbatore,Tamil Nadu,Tier 2,2022-11-22 00:00:00,Active
+349,Reseller_0349,+919812264367,Gwalior,Madhya Pradesh,Tier 3,2022-11-22 12:00:00,Active
+350,Reseller_0350,+919016446768,Rajkot,Gujarat,Tier 3,2022-11-23 00:00:00,Active
+351,Reseller_0351,+918454109425,Allahabad,Uttar Pradesh,Tier 3,2022-11-23 12:00:00,Active
+352,Reseller_0352,+919791027186,Gwalior,Madhya Pradesh,Tier 3,2022-11-24 00:00:00,Inactive
+353,Reseller_0353,+919896343368,Bangalore,Karnataka,Tier 1,2022-11-24 12:00:00,Inactive
+354,Reseller_0354,+918360049298,Gwalior,Madhya Pradesh,Tier 3,2022-11-25 00:00:00,Active
+355,Reseller_0355,+919323646093,Jabalpur,Madhya Pradesh,Tier 3,2022-11-25 12:00:00,Churned
+356,Reseller_0356,+918008330525,Mumbai,Maharashtra,Tier 1,2022-11-26 00:00:00,Active
+357,Reseller_0357,+917977046129,Allahabad,Uttar Pradesh,Tier 3,2022-11-26 12:00:00,Inactive
+358,Reseller_0358,+917422809996,Gwalior,Madhya Pradesh,Tier 3,2022-11-27 00:00:00,Inactive
+359,Reseller_0359,+917431675310,Mysore,Karnataka,Tier 3,2022-11-27 12:00:00,Churned
+360,Reseller_0360,+918286196999,Visakhapatnam,Andhra Pradesh,Tier 2,2022-11-28 00:00:00,Inactive
+361,Reseller_0361,+918393178591,Meerut,Uttar Pradesh,Tier 3,2022-11-28 12:00:00,Inactive
+362,Reseller_0362,+918539588337,Allahabad,Uttar Pradesh,Tier 3,2022-11-29 00:00:00,Inactive
+363,Reseller_0363,+918048819999,Indore,Madhya Pradesh,Tier 2,2022-11-29 12:00:00,Active
+364,Reseller_0364,+919928310291,Agra,Uttar Pradesh,Tier 2,2022-11-30 00:00:00,Active
+365,Reseller_0365,+917751917162,Varanasi,Uttar Pradesh,Tier 3,2022-11-30 12:00:00,Inactive
+366,Reseller_0366,+918643015259,Pune,Maharashtra,Tier 1,2022-12-01 00:00:00,Active
+367,Reseller_0367,+919137464556,Amritsar,Punjab,Tier 3,2022-12-01 12:00:00,Inactive
+368,Reseller_0368,+917997241761,Varanasi,Uttar Pradesh,Tier 3,2022-12-02 00:00:00,Active
+369,Reseller_0369,+918973840257,Patna,Bihar,Tier 2,2022-12-02 12:00:00,Active
+370,Reseller_0370,+918998247509,Jaipur,Rajasthan,Tier 2,2022-12-03 00:00:00,Active
+371,Reseller_0371,+919347621138,Raipur,Chhattisgarh,Tier 3,2022-12-03 12:00:00,Active
+372,Reseller_0372,+918484193033,Coimbatore,Tamil Nadu,Tier 2,2022-12-04 00:00:00,Inactive
+373,Reseller_0373,+919744220825,Allahabad,Uttar Pradesh,Tier 3,2022-12-04 12:00:00,Active
+374,Reseller_0374,+918074163698,Mysore,Karnataka,Tier 3,2022-12-05 00:00:00,Active
+375,Reseller_0375,+917855630484,Patna,Bihar,Tier 2,2022-12-05 12:00:00,Active
+376,Reseller_0376,+917458072318,Jabalpur,Madhya Pradesh,Tier 3,2022-12-06 00:00:00,Active
+377,Reseller_0377,+918541717841,Agra,Uttar Pradesh,Tier 2,2022-12-06 12:00:00,Inactive
+378,Reseller_0378,+918268006448,Visakhapatnam,Andhra Pradesh,Tier 2,2022-12-07 00:00:00,Active
+379,Reseller_0379,+919827075539,Pune,Maharashtra,Tier 1,2022-12-07 12:00:00,Inactive
+380,Reseller_0380,+919430646623,Jaipur,Rajasthan,Tier 2,2022-12-08 00:00:00,Inactive
+381,Reseller_0381,+917210643427,Mysore,Karnataka,Tier 3,2022-12-08 12:00:00,Inactive
+382,Reseller_0382,+919133427445,Mysore,Karnataka,Tier 3,2022-12-09 00:00:00,Inactive
+383,Reseller_0383,+917988350974,Allahabad,Uttar Pradesh,Tier 3,2022-12-09 12:00:00,Inactive
+384,Reseller_0384,+917940617318,Ranchi,Jharkhand,Tier 3,2022-12-10 00:00:00,Churned
+385,Reseller_0385,+918076433900,Jodhpur,Rajasthan,Tier 3,2022-12-10 12:00:00,Active
+386,Reseller_0386,+919831163141,Mysore,Karnataka,Tier 3,2022-12-11 00:00:00,Active
+387,Reseller_0387,+919698305085,Varanasi,Uttar Pradesh,Tier 3,2022-12-11 12:00:00,Active
+388,Reseller_0388,+919776011793,Kolkata,West Bengal,Tier 1,2022-12-12 00:00:00,Active
+389,Reseller_0389,+918893321208,Pune,Maharashtra,Tier 1,2022-12-12 12:00:00,Inactive
+390,Reseller_0390,+917564409423,Bangalore,Karnataka,Tier 1,2022-12-13 00:00:00,Churned
+391,Reseller_0391,+918403247962,Bangalore,Karnataka,Tier 1,2022-12-13 12:00:00,Active
+392,Reseller_0392,+917862407093,Varanasi,Uttar Pradesh,Tier 3,2022-12-14 00:00:00,Active
+393,Reseller_0393,+918571346130,Chennai,Tamil Nadu,Tier 1,2022-12-14 12:00:00,Active
+394,Reseller_0394,+917706712922,Patna,Bihar,Tier 2,2022-12-15 00:00:00,Inactive
+395,Reseller_0395,+918267622868,Coimbatore,Tamil Nadu,Tier 2,2022-12-15 12:00:00,Inactive
+396,Reseller_0396,+917494650131,Ranchi,Jharkhand,Tier 3,2022-12-16 00:00:00,Active
+397,Reseller_0397,+917604546780,Lucknow,Uttar Pradesh,Tier 2,2022-12-16 12:00:00,Churned
+398,Reseller_0398,+919904788278,Amritsar,Punjab,Tier 3,2022-12-17 00:00:00,Inactive
+399,Reseller_0399,+919393639475,Gwalior,Madhya Pradesh,Tier 3,2022-12-17 12:00:00,Active
+400,Reseller_0400,+917059780189,Vadodara,Gujarat,Tier 2,2022-12-18 00:00:00,Inactive
+401,Reseller_0401,+918953291127,Lucknow,Uttar Pradesh,Tier 2,2022-12-18 12:00:00,Inactive
+402,Reseller_0402,+919887681752,Visakhapatnam,Andhra Pradesh,Tier 2,2022-12-19 00:00:00,Active
+403,Reseller_0403,+919742548209,Vadodara,Gujarat,Tier 2,2022-12-19 12:00:00,Active
+404,Reseller_0404,+919898400928,Rajkot,Gujarat,Tier 3,2022-12-20 00:00:00,Active
+405,Reseller_0405,+919660933507,Jaipur,Rajasthan,Tier 2,2022-12-20 12:00:00,Active
+406,Reseller_0406,+918408776235,Vijayawada,Andhra Pradesh,Tier 3,2022-12-21 00:00:00,Inactive
+407,Reseller_0407,+919781645815,Amritsar,Punjab,Tier 3,2022-12-21 12:00:00,Churned
+408,Reseller_0408,+918994013856,Pune,Maharashtra,Tier 1,2022-12-22 00:00:00,Active
+409,Reseller_0409,+919788462200,Allahabad,Uttar Pradesh,Tier 3,2022-12-22 12:00:00,Active
+410,Reseller_0410,+917194763060,Indore,Madhya Pradesh,Tier 2,2022-12-23 00:00:00,Active
+411,Reseller_0411,+919115806625,Allahabad,Uttar Pradesh,Tier 3,2022-12-23 12:00:00,Active
+412,Reseller_0412,+919308745090,Delhi,Delhi,Tier 1,2022-12-24 00:00:00,Inactive
+413,Reseller_0413,+918593482331,Hyderabad,Telangana,Tier 1,2022-12-24 12:00:00,Active
+414,Reseller_0414,+919991375951,Mysore,Karnataka,Tier 3,2022-12-25 00:00:00,Active
+415,Reseller_0415,+919522607583,Gwalior,Madhya Pradesh,Tier 3,2022-12-25 12:00:00,Active
+416,Reseller_0416,+918781915481,Varanasi,Uttar Pradesh,Tier 3,2022-12-26 00:00:00,Inactive
+417,Reseller_0417,+919644206129,Jabalpur,Madhya Pradesh,Tier 3,2022-12-26 12:00:00,Active
+418,Reseller_0418,+917140515379,Patna,Bihar,Tier 2,2022-12-27 00:00:00,Inactive
+419,Reseller_0419,+918904315855,Amritsar,Punjab,Tier 3,2022-12-27 12:00:00,Active
+420,Reseller_0420,+918557724698,Bhopal,Madhya Pradesh,Tier 2,2022-12-28 00:00:00,Inactive
+421,Reseller_0421,+918577691630,Kolkata,West Bengal,Tier 1,2022-12-28 12:00:00,Inactive
+422,Reseller_0422,+918540492440,Kochi,Kerala,Tier 2,2022-12-29 00:00:00,Active
+423,Reseller_0423,+917815221547,Bangalore,Karnataka,Tier 1,2022-12-29 12:00:00,Active
+424,Reseller_0424,+917393734347,Jabalpur,Madhya Pradesh,Tier 3,2022-12-30 00:00:00,Churned
+425,Reseller_0425,+919746601166,Raipur,Chhattisgarh,Tier 3,2022-12-30 12:00:00,Churned
+426,Reseller_0426,+917217233051,Jaipur,Rajasthan,Tier 2,2022-12-31 00:00:00,Active
+427,Reseller_0427,+917540838949,Amritsar,Punjab,Tier 3,2022-12-31 12:00:00,Active
+428,Reseller_0428,+917294678352,Amritsar,Punjab,Tier 3,2023-01-01 00:00:00,Churned
+429,Reseller_0429,+917889734128,Vijayawada,Andhra Pradesh,Tier 3,2023-01-01 12:00:00,Inactive
+430,Reseller_0430,+918411152518,Bhopal,Madhya Pradesh,Tier 2,2023-01-02 00:00:00,Active
+431,Reseller_0431,+917012178595,Jodhpur,Rajasthan,Tier 3,2023-01-02 12:00:00,Churned
+432,Reseller_0432,+917558311957,Indore,Madhya Pradesh,Tier 2,2023-01-03 00:00:00,Active
+433,Reseller_0433,+917472130062,Indore,Madhya Pradesh,Tier 2,2023-01-03 12:00:00,Inactive
+434,Reseller_0434,+917566090561,Meerut,Uttar Pradesh,Tier 3,2023-01-04 00:00:00,Active
+435,Reseller_0435,+918021908455,Pune,Maharashtra,Tier 1,2023-01-04 12:00:00,Active
+436,Reseller_0436,+917748381742,Jaipur,Rajasthan,Tier 2,2023-01-05 00:00:00,Active
+437,Reseller_0437,+918808011838,Indore,Madhya Pradesh,Tier 2,2023-01-05 12:00:00,Inactive
+438,Reseller_0438,+917272979685,Visakhapatnam,Andhra Pradesh,Tier 2,2023-01-06 00:00:00,Active
+439,Reseller_0439,+919204340231,Nagpur,Maharashtra,Tier 2,2023-01-06 12:00:00,Active
+440,Reseller_0440,+919163970710,Coimbatore,Tamil Nadu,Tier 2,2023-01-07 00:00:00,Active
+441,Reseller_0441,+917186251406,Agra,Uttar Pradesh,Tier 2,2023-01-07 12:00:00,Active
+442,Reseller_0442,+919239615923,Raipur,Chhattisgarh,Tier 3,2023-01-08 00:00:00,Churned
+443,Reseller_0443,+917133790981,Kochi,Kerala,Tier 2,2023-01-08 12:00:00,Active
+444,Reseller_0444,+918724932977,Hyderabad,Telangana,Tier 1,2023-01-09 00:00:00,Inactive
+445,Reseller_0445,+919105688676,Lucknow,Uttar Pradesh,Tier 2,2023-01-09 12:00:00,Churned
+446,Reseller_0446,+917315640205,Jabalpur,Madhya Pradesh,Tier 3,2023-01-10 00:00:00,Active
+447,Reseller_0447,+919612617557,Ranchi,Jharkhand,Tier 3,2023-01-10 12:00:00,Active
+448,Reseller_0448,+918181184718,Delhi,Delhi,Tier 1,2023-01-11 00:00:00,Active
+449,Reseller_0449,+919355172948,Jodhpur,Rajasthan,Tier 3,2023-01-11 12:00:00,Active
+450,Reseller_0450,+919565778475,Gwalior,Madhya Pradesh,Tier 3,2023-01-12 00:00:00,Active
+451,Reseller_0451,+919171325343,Coimbatore,Tamil Nadu,Tier 2,2023-01-12 12:00:00,Active
+452,Reseller_0452,+917491404673,Rajkot,Gujarat,Tier 3,2023-01-13 00:00:00,Inactive
+453,Reseller_0453,+919367966782,Raipur,Chhattisgarh,Tier 3,2023-01-13 12:00:00,Active
+454,Reseller_0454,+918847136322,Amritsar,Punjab,Tier 3,2023-01-14 00:00:00,Active
+455,Reseller_0455,+918777315761,Bhopal,Madhya Pradesh,Tier 2,2023-01-14 12:00:00,Inactive
+456,Reseller_0456,+918712533097,Coimbatore,Tamil Nadu,Tier 2,2023-01-15 00:00:00,Active
+457,Reseller_0457,+918342384949,Lucknow,Uttar Pradesh,Tier 2,2023-01-15 12:00:00,Inactive
+458,Reseller_0458,+918094743340,Kochi,Kerala,Tier 2,2023-01-16 00:00:00,Inactive
+459,Reseller_0459,+919949873860,Indore,Madhya Pradesh,Tier 2,2023-01-16 12:00:00,Active
+460,Reseller_0460,+917391807468,Rajkot,Gujarat,Tier 3,2023-01-17 00:00:00,Inactive
+461,Reseller_0461,+918854895521,Rajkot,Gujarat,Tier 3,2023-01-17 12:00:00,Active
+462,Reseller_0462,+918600506062,Kolkata,West Bengal,Tier 1,2023-01-18 00:00:00,Active
+463,Reseller_0463,+917257616339,Vijayawada,Andhra Pradesh,Tier 3,2023-01-18 12:00:00,Active
+464,Reseller_0464,+919412411754,Ludhiana,Punjab,Tier 2,2023-01-19 00:00:00,Active
+465,Reseller_0465,+918764409657,Lucknow,Uttar Pradesh,Tier 2,2023-01-19 12:00:00,Inactive
+466,Reseller_0466,+918816499958,Kochi,Kerala,Tier 2,2023-01-20 00:00:00,Active
+467,Reseller_0467,+917220959215,Mysore,Karnataka,Tier 3,2023-01-20 12:00:00,Active
+468,Reseller_0468,+918341957809,Jodhpur,Rajasthan,Tier 3,2023-01-21 00:00:00,Active
+469,Reseller_0469,+919179320310,Agra,Uttar Pradesh,Tier 2,2023-01-21 12:00:00,Inactive
+470,Reseller_0470,+919070987704,Kochi,Kerala,Tier 2,2023-01-22 00:00:00,Active
+471,Reseller_0471,+918503728142,Lucknow,Uttar Pradesh,Tier 2,2023-01-22 12:00:00,Churned
+472,Reseller_0472,+917493428666,Ranchi,Jharkhand,Tier 3,2023-01-23 00:00:00,Active
+473,Reseller_0473,+917971345904,Jodhpur,Rajasthan,Tier 3,2023-01-23 12:00:00,Inactive
+474,Reseller_0474,+919670283403,Vijayawada,Andhra Pradesh,Tier 3,2023-01-24 00:00:00,Churned
+475,Reseller_0475,+919391179068,Raipur,Chhattisgarh,Tier 3,2023-01-24 12:00:00,Inactive
+476,Reseller_0476,+919978436070,Kolkata,West Bengal,Tier 1,2023-01-25 00:00:00,Churned
+477,Reseller_0477,+918173687378,Indore,Madhya Pradesh,Tier 2,2023-01-25 12:00:00,Active
+478,Reseller_0478,+918459535801,Allahabad,Uttar Pradesh,Tier 3,2023-01-26 00:00:00,Inactive
+479,Reseller_0479,+917615260464,Indore,Madhya Pradesh,Tier 2,2023-01-26 12:00:00,Active
+480,Reseller_0480,+917298867122,Vadodara,Gujarat,Tier 2,2023-01-27 00:00:00,Active
+481,Reseller_0481,+917131671246,Kolkata,West Bengal,Tier 1,2023-01-27 12:00:00,Active
+482,Reseller_0482,+917923988689,Chennai,Tamil Nadu,Tier 1,2023-01-28 00:00:00,Inactive
+483,Reseller_0483,+918464137110,Coimbatore,Tamil Nadu,Tier 2,2023-01-28 12:00:00,Active
+484,Reseller_0484,+918393213895,Patna,Bihar,Tier 2,2023-01-29 00:00:00,Inactive
+485,Reseller_0485,+919560761628,Jodhpur,Rajasthan,Tier 3,2023-01-29 12:00:00,Churned
+486,Reseller_0486,+917668210614,Mumbai,Maharashtra,Tier 1,2023-01-30 00:00:00,Inactive
+487,Reseller_0487,+917213728259,Agra,Uttar Pradesh,Tier 2,2023-01-30 12:00:00,Inactive
+488,Reseller_0488,+918903155722,Allahabad,Uttar Pradesh,Tier 3,2023-01-31 00:00:00,Inactive
+489,Reseller_0489,+919607371597,Jabalpur,Madhya Pradesh,Tier 3,2023-01-31 12:00:00,Churned
+490,Reseller_0490,+917925861658,Patna,Bihar,Tier 2,2023-02-01 00:00:00,Inactive
+491,Reseller_0491,+918482506118,Rajkot,Gujarat,Tier 3,2023-02-01 12:00:00,Inactive
+492,Reseller_0492,+919912923661,Patna,Bihar,Tier 2,2023-02-02 00:00:00,Churned
+493,Reseller_0493,+919263164755,Jabalpur,Madhya Pradesh,Tier 3,2023-02-02 12:00:00,Churned
+494,Reseller_0494,+917947119487,Meerut,Uttar Pradesh,Tier 3,2023-02-03 00:00:00,Active
+495,Reseller_0495,+917235286733,Agra,Uttar Pradesh,Tier 2,2023-02-03 12:00:00,Active
+496,Reseller_0496,+917907243029,Bangalore,Karnataka,Tier 1,2023-02-04 00:00:00,Active
+497,Reseller_0497,+918243165953,Allahabad,Uttar Pradesh,Tier 3,2023-02-04 12:00:00,Active
+498,Reseller_0498,+919136253713,Jaipur,Rajasthan,Tier 2,2023-02-05 00:00:00,Inactive
+499,Reseller_0499,+917554848380,Varanasi,Uttar Pradesh,Tier 3,2023-02-05 12:00:00,Inactive
+500,Reseller_0500,+917988317990,Visakhapatnam,Andhra Pradesh,Tier 2,2023-02-06 00:00:00,Inactive
+501,Reseller_0501,+918521136431,Kochi,Kerala,Tier 2,2023-02-06 12:00:00,Active
+502,Reseller_0502,+917181686832,Pune,Maharashtra,Tier 1,2023-02-07 00:00:00,Churned
+503,Reseller_0503,+917334417350,Coimbatore,Tamil Nadu,Tier 2,2023-02-07 12:00:00,Inactive
+504,Reseller_0504,+918843761970,Jodhpur,Rajasthan,Tier 3,2023-02-08 00:00:00,Inactive
+505,Reseller_0505,+919749387529,Visakhapatnam,Andhra Pradesh,Tier 2,2023-02-08 12:00:00,Churned
+506,Reseller_0506,+918739600515,Lucknow,Uttar Pradesh,Tier 2,2023-02-09 00:00:00,Inactive
+507,Reseller_0507,+917738189691,Bangalore,Karnataka,Tier 1,2023-02-09 12:00:00,Active
+508,Reseller_0508,+918976101133,Jodhpur,Rajasthan,Tier 3,2023-02-10 00:00:00,Inactive
+509,Reseller_0509,+917378514962,Ranchi,Jharkhand,Tier 3,2023-02-10 12:00:00,Active
+510,Reseller_0510,+918045036297,Lucknow,Uttar Pradesh,Tier 2,2023-02-11 00:00:00,Active
+511,Reseller_0511,+919250402001,Vadodara,Gujarat,Tier 2,2023-02-11 12:00:00,Inactive
+512,Reseller_0512,+918332619083,Pune,Maharashtra,Tier 1,2023-02-12 00:00:00,Active
+513,Reseller_0513,+918430518844,Amritsar,Punjab,Tier 3,2023-02-12 12:00:00,Inactive
+514,Reseller_0514,+919192509020,Rajkot,Gujarat,Tier 3,2023-02-13 00:00:00,Active
+515,Reseller_0515,+919190227431,Vijayawada,Andhra Pradesh,Tier 3,2023-02-13 12:00:00,Churned
+516,Reseller_0516,+918507961865,Nagpur,Maharashtra,Tier 2,2023-02-14 00:00:00,Active
+517,Reseller_0517,+917634323009,Raipur,Chhattisgarh,Tier 3,2023-02-14 12:00:00,Churned
+518,Reseller_0518,+918099375147,Indore,Madhya Pradesh,Tier 2,2023-02-15 00:00:00,Inactive
+519,Reseller_0519,+917656570734,Agra,Uttar Pradesh,Tier 2,2023-02-15 12:00:00,Active
+520,Reseller_0520,+917323639855,Raipur,Chhattisgarh,Tier 3,2023-02-16 00:00:00,Inactive
+521,Reseller_0521,+919122216473,Kochi,Kerala,Tier 2,2023-02-16 12:00:00,Churned
+522,Reseller_0522,+919488796494,Agra,Uttar Pradesh,Tier 2,2023-02-17 00:00:00,Active
+523,Reseller_0523,+919761628889,Agra,Uttar Pradesh,Tier 2,2023-02-17 12:00:00,Active
+524,Reseller_0524,+918388168801,Jodhpur,Rajasthan,Tier 3,2023-02-18 00:00:00,Active
+525,Reseller_0525,+918357806226,Raipur,Chhattisgarh,Tier 3,2023-02-18 12:00:00,Active
+526,Reseller_0526,+919014000727,Lucknow,Uttar Pradesh,Tier 2,2023-02-19 00:00:00,Inactive
+527,Reseller_0527,+918179714407,Patna,Bihar,Tier 2,2023-02-19 12:00:00,Inactive
+528,Reseller_0528,+919178995337,Nagpur,Maharashtra,Tier 2,2023-02-20 00:00:00,Active
+529,Reseller_0529,+918940955281,Hyderabad,Telangana,Tier 1,2023-02-20 12:00:00,Active
+530,Reseller_0530,+918232986477,Bangalore,Karnataka,Tier 1,2023-02-21 00:00:00,Inactive
+531,Reseller_0531,+917387820537,Pune,Maharashtra,Tier 1,2023-02-21 12:00:00,Active
+532,Reseller_0532,+918651339677,Vijayawada,Andhra Pradesh,Tier 3,2023-02-22 00:00:00,Active
+533,Reseller_0533,+917176191212,Ludhiana,Punjab,Tier 2,2023-02-22 12:00:00,Churned
+534,Reseller_0534,+919799620568,Agra,Uttar Pradesh,Tier 2,2023-02-23 00:00:00,Inactive
+535,Reseller_0535,+919042811108,Agra,Uttar Pradesh,Tier 2,2023-02-23 12:00:00,Inactive
+536,Reseller_0536,+918934982045,Jaipur,Rajasthan,Tier 2,2023-02-24 00:00:00,Inactive
+537,Reseller_0537,+918475054001,Pune,Maharashtra,Tier 1,2023-02-24 12:00:00,Active
+538,Reseller_0538,+919167021467,Rajkot,Gujarat,Tier 3,2023-02-25 00:00:00,Inactive
+539,Reseller_0539,+918064051191,Meerut,Uttar Pradesh,Tier 3,2023-02-25 12:00:00,Active
+540,Reseller_0540,+919250857309,Jabalpur,Madhya Pradesh,Tier 3,2023-02-26 00:00:00,Active
+541,Reseller_0541,+918562929828,Indore,Madhya Pradesh,Tier 2,2023-02-26 12:00:00,Active
+542,Reseller_0542,+918663941470,Patna,Bihar,Tier 2,2023-02-27 00:00:00,Active
+543,Reseller_0543,+919915843503,Nagpur,Maharashtra,Tier 2,2023-02-27 12:00:00,Inactive
+544,Reseller_0544,+919780155330,Kochi,Kerala,Tier 2,2023-02-28 00:00:00,Active
+545,Reseller_0545,+917405899939,Nagpur,Maharashtra,Tier 2,2023-02-28 12:00:00,Active
+546,Reseller_0546,+918220401982,Vadodara,Gujarat,Tier 2,2023-03-01 00:00:00,Active
+547,Reseller_0547,+919588580274,Kochi,Kerala,Tier 2,2023-03-01 12:00:00,Active
+548,Reseller_0548,+917350048353,Ranchi,Jharkhand,Tier 3,2023-03-02 00:00:00,Inactive
+549,Reseller_0549,+918502468844,Indore,Madhya Pradesh,Tier 2,2023-03-02 12:00:00,Active
+550,Reseller_0550,+919999948589,Kochi,Kerala,Tier 2,2023-03-03 00:00:00,Inactive
+551,Reseller_0551,+919555682594,Varanasi,Uttar Pradesh,Tier 3,2023-03-03 12:00:00,Active
+552,Reseller_0552,+918329644079,Rajkot,Gujarat,Tier 3,2023-03-04 00:00:00,Inactive
+553,Reseller_0553,+918410796055,Kochi,Kerala,Tier 2,2023-03-04 12:00:00,Inactive
+554,Reseller_0554,+919943832590,Raipur,Chhattisgarh,Tier 3,2023-03-05 00:00:00,Active
+555,Reseller_0555,+919774655465,Rajkot,Gujarat,Tier 3,2023-03-05 12:00:00,Inactive
+556,Reseller_0556,+918554039848,Vijayawada,Andhra Pradesh,Tier 3,2023-03-06 00:00:00,Active
+557,Reseller_0557,+917774223342,Bangalore,Karnataka,Tier 1,2023-03-06 12:00:00,Active
+558,Reseller_0558,+919088517710,Ranchi,Jharkhand,Tier 3,2023-03-07 00:00:00,Churned
+559,Reseller_0559,+917665484476,Indore,Madhya Pradesh,Tier 2,2023-03-07 12:00:00,Active
+560,Reseller_0560,+917434396266,Pune,Maharashtra,Tier 1,2023-03-08 00:00:00,Active
+561,Reseller_0561,+919261436148,Ludhiana,Punjab,Tier 2,2023-03-08 12:00:00,Inactive
+562,Reseller_0562,+919654424954,Bangalore,Karnataka,Tier 1,2023-03-09 00:00:00,Active
+563,Reseller_0563,+917662510569,Hyderabad,Telangana,Tier 1,2023-03-09 12:00:00,Inactive
+564,Reseller_0564,+919683239935,Visakhapatnam,Andhra Pradesh,Tier 2,2023-03-10 00:00:00,Active
+565,Reseller_0565,+918879792991,Varanasi,Uttar Pradesh,Tier 3,2023-03-10 12:00:00,Churned
+566,Reseller_0566,+919904956613,Bangalore,Karnataka,Tier 1,2023-03-11 00:00:00,Inactive
+567,Reseller_0567,+919622487366,Jabalpur,Madhya Pradesh,Tier 3,2023-03-11 12:00:00,Inactive
+568,Reseller_0568,+918928130926,Visakhapatnam,Andhra Pradesh,Tier 2,2023-03-12 00:00:00,Churned
+569,Reseller_0569,+918329154472,Bhopal,Madhya Pradesh,Tier 2,2023-03-12 12:00:00,Active
+570,Reseller_0570,+917833293142,Jabalpur,Madhya Pradesh,Tier 3,2023-03-13 00:00:00,Churned
+571,Reseller_0571,+918892351448,Agra,Uttar Pradesh,Tier 2,2023-03-13 12:00:00,Active
+572,Reseller_0572,+918640129626,Patna,Bihar,Tier 2,2023-03-14 00:00:00,Active
+573,Reseller_0573,+917696034559,Vadodara,Gujarat,Tier 2,2023-03-14 12:00:00,Active
+574,Reseller_0574,+917594417160,Jodhpur,Rajasthan,Tier 3,2023-03-15 00:00:00,Active
+575,Reseller_0575,+919753842979,Meerut,Uttar Pradesh,Tier 3,2023-03-15 12:00:00,Active
+576,Reseller_0576,+919381734362,Nagpur,Maharashtra,Tier 2,2023-03-16 00:00:00,Inactive
+577,Reseller_0577,+919215813941,Mysore,Karnataka,Tier 3,2023-03-16 12:00:00,Inactive
+578,Reseller_0578,+917360240905,Allahabad,Uttar Pradesh,Tier 3,2023-03-17 00:00:00,Churned
+579,Reseller_0579,+918929811336,Allahabad,Uttar Pradesh,Tier 3,2023-03-17 12:00:00,Active
+580,Reseller_0580,+918878930355,Varanasi,Uttar Pradesh,Tier 3,2023-03-18 00:00:00,Inactive
+581,Reseller_0581,+918937579958,Delhi,Delhi,Tier 1,2023-03-18 12:00:00,Active
+582,Reseller_0582,+918781968664,Meerut,Uttar Pradesh,Tier 3,2023-03-19 00:00:00,Active
+583,Reseller_0583,+918606152369,Chennai,Tamil Nadu,Tier 1,2023-03-19 12:00:00,Active
+584,Reseller_0584,+918610237679,Lucknow,Uttar Pradesh,Tier 2,2023-03-20 00:00:00,Active
+585,Reseller_0585,+917425558776,Nagpur,Maharashtra,Tier 2,2023-03-20 12:00:00,Inactive
+586,Reseller_0586,+918440061103,Raipur,Chhattisgarh,Tier 3,2023-03-21 00:00:00,Inactive
+587,Reseller_0587,+917164510971,Varanasi,Uttar Pradesh,Tier 3,2023-03-21 12:00:00,Active
+588,Reseller_0588,+919989606411,Coimbatore,Tamil Nadu,Tier 2,2023-03-22 00:00:00,Active
+589,Reseller_0589,+919014812671,Mysore,Karnataka,Tier 3,2023-03-22 12:00:00,Active
+590,Reseller_0590,+917340272119,Jaipur,Rajasthan,Tier 2,2023-03-23 00:00:00,Active
+591,Reseller_0591,+917642181881,Delhi,Delhi,Tier 1,2023-03-23 12:00:00,Churned
+592,Reseller_0592,+919615120114,Visakhapatnam,Andhra Pradesh,Tier 2,2023-03-24 00:00:00,Active
+593,Reseller_0593,+918237386857,Lucknow,Uttar Pradesh,Tier 2,2023-03-24 12:00:00,Active
+594,Reseller_0594,+917205082311,Lucknow,Uttar Pradesh,Tier 2,2023-03-25 00:00:00,Active
+595,Reseller_0595,+919674951016,Kochi,Kerala,Tier 2,2023-03-25 12:00:00,Inactive
+596,Reseller_0596,+919146750150,Lucknow,Uttar Pradesh,Tier 2,2023-03-26 00:00:00,Churned
+597,Reseller_0597,+919714225802,Jaipur,Rajasthan,Tier 2,2023-03-26 12:00:00,Inactive
+598,Reseller_0598,+917616657849,Bhopal,Madhya Pradesh,Tier 2,2023-03-27 00:00:00,Inactive
+599,Reseller_0599,+919640587058,Jaipur,Rajasthan,Tier 2,2023-03-27 12:00:00,Active
+600,Reseller_0600,+918789144223,Agra,Uttar Pradesh,Tier 2,2023-03-28 00:00:00,Active
+601,Reseller_0601,+917367709135,Kochi,Kerala,Tier 2,2023-03-28 12:00:00,Churned
+602,Reseller_0602,+917290680473,Nagpur,Maharashtra,Tier 2,2023-03-29 00:00:00,Inactive
+603,Reseller_0603,+919178955870,Vijayawada,Andhra Pradesh,Tier 3,2023-03-29 12:00:00,Inactive
+604,Reseller_0604,+919380064537,Vijayawada,Andhra Pradesh,Tier 3,2023-03-30 00:00:00,Inactive
+605,Reseller_0605,+919019214800,Pune,Maharashtra,Tier 1,2023-03-30 12:00:00,Inactive
+606,Reseller_0606,+918603321558,Hyderabad,Telangana,Tier 1,2023-03-31 00:00:00,Inactive
+607,Reseller_0607,+918533706498,Jaipur,Rajasthan,Tier 2,2023-03-31 12:00:00,Churned
+608,Reseller_0608,+918035627944,Ranchi,Jharkhand,Tier 3,2023-04-01 00:00:00,Churned
+609,Reseller_0609,+917445232926,Raipur,Chhattisgarh,Tier 3,2023-04-01 12:00:00,Inactive
+610,Reseller_0610,+918428156550,Mysore,Karnataka,Tier 3,2023-04-02 00:00:00,Inactive
+611,Reseller_0611,+919345111169,Bangalore,Karnataka,Tier 1,2023-04-02 12:00:00,Active
+612,Reseller_0612,+917752002052,Kochi,Kerala,Tier 2,2023-04-03 00:00:00,Inactive
+613,Reseller_0613,+918995540139,Raipur,Chhattisgarh,Tier 3,2023-04-03 12:00:00,Active
+614,Reseller_0614,+919713284816,Jabalpur,Madhya Pradesh,Tier 3,2023-04-04 00:00:00,Inactive
+615,Reseller_0615,+917271014739,Indore,Madhya Pradesh,Tier 2,2023-04-04 12:00:00,Churned
+616,Reseller_0616,+917158844179,Jabalpur,Madhya Pradesh,Tier 3,2023-04-05 00:00:00,Inactive
+617,Reseller_0617,+917856716405,Jaipur,Rajasthan,Tier 2,2023-04-05 12:00:00,Active
+618,Reseller_0618,+918331765783,Ranchi,Jharkhand,Tier 3,2023-04-06 00:00:00,Active
+619,Reseller_0619,+919033236512,Ludhiana,Punjab,Tier 2,2023-04-06 12:00:00,Active
+620,Reseller_0620,+917820782998,Kochi,Kerala,Tier 2,2023-04-07 00:00:00,Inactive
+621,Reseller_0621,+919816344780,Jaipur,Rajasthan,Tier 2,2023-04-07 12:00:00,Active
+622,Reseller_0622,+918580630311,Lucknow,Uttar Pradesh,Tier 2,2023-04-08 00:00:00,Active
+623,Reseller_0623,+918888654461,Vadodara,Gujarat,Tier 2,2023-04-08 12:00:00,Active
+624,Reseller_0624,+918456151216,Gwalior,Madhya Pradesh,Tier 3,2023-04-09 00:00:00,Inactive
+625,Reseller_0625,+919972411520,Jabalpur,Madhya Pradesh,Tier 3,2023-04-09 12:00:00,Inactive
+626,Reseller_0626,+918145556651,Ludhiana,Punjab,Tier 2,2023-04-10 00:00:00,Active
+627,Reseller_0627,+918823212172,Mysore,Karnataka,Tier 3,2023-04-10 12:00:00,Active
+628,Reseller_0628,+917775054695,Chennai,Tamil Nadu,Tier 1,2023-04-11 00:00:00,Active
+629,Reseller_0629,+917440654676,Nagpur,Maharashtra,Tier 2,2023-04-11 12:00:00,Inactive
+630,Reseller_0630,+918269763934,Kolkata,West Bengal,Tier 1,2023-04-12 00:00:00,Inactive
+631,Reseller_0631,+918830154607,Agra,Uttar Pradesh,Tier 2,2023-04-12 12:00:00,Active
+632,Reseller_0632,+918509882812,Coimbatore,Tamil Nadu,Tier 2,2023-04-13 00:00:00,Inactive
+633,Reseller_0633,+918514230707,Visakhapatnam,Andhra Pradesh,Tier 2,2023-04-13 12:00:00,Active
+634,Reseller_0634,+918179206294,Gwalior,Madhya Pradesh,Tier 3,2023-04-14 00:00:00,Churned
+635,Reseller_0635,+917322299355,Meerut,Uttar Pradesh,Tier 3,2023-04-14 12:00:00,Active
+636,Reseller_0636,+918560409439,Gwalior,Madhya Pradesh,Tier 3,2023-04-15 00:00:00,Active
+637,Reseller_0637,+919918046336,Visakhapatnam,Andhra Pradesh,Tier 2,2023-04-15 12:00:00,Active
+638,Reseller_0638,+917613233132,Jaipur,Rajasthan,Tier 2,2023-04-16 00:00:00,Inactive
+639,Reseller_0639,+918881937953,Raipur,Chhattisgarh,Tier 3,2023-04-16 12:00:00,Inactive
+640,Reseller_0640,+918013592436,Mumbai,Maharashtra,Tier 1,2023-04-17 00:00:00,Active
+641,Reseller_0641,+918555424924,Ranchi,Jharkhand,Tier 3,2023-04-17 12:00:00,Inactive
+642,Reseller_0642,+917139093888,Agra,Uttar Pradesh,Tier 2,2023-04-18 00:00:00,Inactive
+643,Reseller_0643,+918932402710,Raipur,Chhattisgarh,Tier 3,2023-04-18 12:00:00,Active
+644,Reseller_0644,+918906704716,Ranchi,Jharkhand,Tier 3,2023-04-19 00:00:00,Active
+645,Reseller_0645,+917591395970,Jodhpur,Rajasthan,Tier 3,2023-04-19 12:00:00,Churned
+646,Reseller_0646,+918350275186,Vadodara,Gujarat,Tier 2,2023-04-20 00:00:00,Active
+647,Reseller_0647,+917487258103,Amritsar,Punjab,Tier 3,2023-04-20 12:00:00,Active
+648,Reseller_0648,+919143377496,Delhi,Delhi,Tier 1,2023-04-21 00:00:00,Churned
+649,Reseller_0649,+917505779640,Ludhiana,Punjab,Tier 2,2023-04-21 12:00:00,Active
+650,Reseller_0650,+918916728422,Patna,Bihar,Tier 2,2023-04-22 00:00:00,Active
+651,Reseller_0651,+918226543337,Agra,Uttar Pradesh,Tier 2,2023-04-22 12:00:00,Active
+652,Reseller_0652,+917859759428,Jabalpur,Madhya Pradesh,Tier 3,2023-04-23 00:00:00,Churned
+653,Reseller_0653,+917318051098,Pune,Maharashtra,Tier 1,2023-04-23 12:00:00,Active
+654,Reseller_0654,+918911737999,Visakhapatnam,Andhra Pradesh,Tier 2,2023-04-24 00:00:00,Active
+655,Reseller_0655,+918372619017,Raipur,Chhattisgarh,Tier 3,2023-04-24 12:00:00,Active
+656,Reseller_0656,+917278911214,Mysore,Karnataka,Tier 3,2023-04-25 00:00:00,Active
+657,Reseller_0657,+918288304114,Patna,Bihar,Tier 2,2023-04-25 12:00:00,Active
+658,Reseller_0658,+919738900744,Mysore,Karnataka,Tier 3,2023-04-26 00:00:00,Active
+659,Reseller_0659,+919185089287,Nagpur,Maharashtra,Tier 2,2023-04-26 12:00:00,Inactive
+660,Reseller_0660,+917596471620,Bhopal,Madhya Pradesh,Tier 2,2023-04-27 00:00:00,Active
+661,Reseller_0661,+917112889043,Coimbatore,Tamil Nadu,Tier 2,2023-04-27 12:00:00,Active
+662,Reseller_0662,+918584461407,Agra,Uttar Pradesh,Tier 2,2023-04-28 00:00:00,Active
+663,Reseller_0663,+917557363168,Ludhiana,Punjab,Tier 2,2023-04-28 12:00:00,Active
+664,Reseller_0664,+917282385977,Rajkot,Gujarat,Tier 3,2023-04-29 00:00:00,Active
+665,Reseller_0665,+919055850987,Visakhapatnam,Andhra Pradesh,Tier 2,2023-04-29 12:00:00,Inactive
+666,Reseller_0666,+919469178881,Vadodara,Gujarat,Tier 2,2023-04-30 00:00:00,Active
+667,Reseller_0667,+919758823240,Bangalore,Karnataka,Tier 1,2023-04-30 12:00:00,Active
+668,Reseller_0668,+919921045865,Hyderabad,Telangana,Tier 1,2023-05-01 00:00:00,Active
+669,Reseller_0669,+919367830246,Indore,Madhya Pradesh,Tier 2,2023-05-01 12:00:00,Churned
+670,Reseller_0670,+917554192345,Varanasi,Uttar Pradesh,Tier 3,2023-05-02 00:00:00,Inactive
+671,Reseller_0671,+917533267960,Jaipur,Rajasthan,Tier 2,2023-05-02 12:00:00,Inactive
+672,Reseller_0672,+917707196784,Patna,Bihar,Tier 2,2023-05-03 00:00:00,Active
+673,Reseller_0673,+917968387506,Visakhapatnam,Andhra Pradesh,Tier 2,2023-05-03 12:00:00,Churned
+674,Reseller_0674,+918219978197,Ludhiana,Punjab,Tier 2,2023-05-04 00:00:00,Active
+675,Reseller_0675,+917843110305,Allahabad,Uttar Pradesh,Tier 3,2023-05-04 12:00:00,Active
+676,Reseller_0676,+918178758213,Vijayawada,Andhra Pradesh,Tier 3,2023-05-05 00:00:00,Active
+677,Reseller_0677,+919638949369,Bangalore,Karnataka,Tier 1,2023-05-05 12:00:00,Active
+678,Reseller_0678,+919753020051,Ludhiana,Punjab,Tier 2,2023-05-06 00:00:00,Churned
+679,Reseller_0679,+917662259333,Agra,Uttar Pradesh,Tier 2,2023-05-06 12:00:00,Inactive
+680,Reseller_0680,+919599051823,Agra,Uttar Pradesh,Tier 2,2023-05-07 00:00:00,Active
+681,Reseller_0681,+917176928180,Agra,Uttar Pradesh,Tier 2,2023-05-07 12:00:00,Inactive
+682,Reseller_0682,+917348849508,Meerut,Uttar Pradesh,Tier 3,2023-05-08 00:00:00,Churned
+683,Reseller_0683,+919477213586,Kolkata,West Bengal,Tier 1,2023-05-08 12:00:00,Churned
+684,Reseller_0684,+919457310580,Bhopal,Madhya Pradesh,Tier 2,2023-05-09 00:00:00,Inactive
+685,Reseller_0685,+917130076950,Kochi,Kerala,Tier 2,2023-05-09 12:00:00,Churned
+686,Reseller_0686,+919343237444,Kochi,Kerala,Tier 2,2023-05-10 00:00:00,Churned
+687,Reseller_0687,+919074232200,Patna,Bihar,Tier 2,2023-05-10 12:00:00,Inactive
+688,Reseller_0688,+918744154114,Kochi,Kerala,Tier 2,2023-05-11 00:00:00,Active
+689,Reseller_0689,+919957572769,Lucknow,Uttar Pradesh,Tier 2,2023-05-11 12:00:00,Active
+690,Reseller_0690,+918785081806,Hyderabad,Telangana,Tier 1,2023-05-12 00:00:00,Inactive
+691,Reseller_0691,+918461115950,Bhopal,Madhya Pradesh,Tier 2,2023-05-12 12:00:00,Active
+692,Reseller_0692,+918371453454,Ranchi,Jharkhand,Tier 3,2023-05-13 00:00:00,Inactive
+693,Reseller_0693,+918712474804,Ranchi,Jharkhand,Tier 3,2023-05-13 12:00:00,Active
+694,Reseller_0694,+919211822827,Bangalore,Karnataka,Tier 1,2023-05-14 00:00:00,Active
+695,Reseller_0695,+918038256217,Nagpur,Maharashtra,Tier 2,2023-05-14 12:00:00,Active
+696,Reseller_0696,+918931000173,Patna,Bihar,Tier 2,2023-05-15 00:00:00,Active
+697,Reseller_0697,+917217348079,Lucknow,Uttar Pradesh,Tier 2,2023-05-15 12:00:00,Churned
+698,Reseller_0698,+919643025991,Vadodara,Gujarat,Tier 2,2023-05-16 00:00:00,Inactive
+699,Reseller_0699,+918406326125,Indore,Madhya Pradesh,Tier 2,2023-05-16 12:00:00,Inactive
+700,Reseller_0700,+918343100352,Mysore,Karnataka,Tier 3,2023-05-17 00:00:00,Inactive
+701,Reseller_0701,+919140034179,Indore,Madhya Pradesh,Tier 2,2023-05-17 12:00:00,Active
+702,Reseller_0702,+919142156616,Jabalpur,Madhya Pradesh,Tier 3,2023-05-18 00:00:00,Active
+703,Reseller_0703,+917099541460,Jabalpur,Madhya Pradesh,Tier 3,2023-05-18 12:00:00,Inactive
+704,Reseller_0704,+919170867436,Hyderabad,Telangana,Tier 1,2023-05-19 00:00:00,Active
+705,Reseller_0705,+917924038246,Bhopal,Madhya Pradesh,Tier 2,2023-05-19 12:00:00,Active
+706,Reseller_0706,+917217069388,Jaipur,Rajasthan,Tier 2,2023-05-20 00:00:00,Active
+707,Reseller_0707,+919810025457,Agra,Uttar Pradesh,Tier 2,2023-05-20 12:00:00,Active
+708,Reseller_0708,+919305069227,Allahabad,Uttar Pradesh,Tier 3,2023-05-21 00:00:00,Churned
+709,Reseller_0709,+918850820685,Mumbai,Maharashtra,Tier 1,2023-05-21 12:00:00,Churned
+710,Reseller_0710,+918571002995,Bangalore,Karnataka,Tier 1,2023-05-22 00:00:00,Active
+711,Reseller_0711,+917194314620,Ranchi,Jharkhand,Tier 3,2023-05-22 12:00:00,Inactive
+712,Reseller_0712,+919412985084,Agra,Uttar Pradesh,Tier 2,2023-05-23 00:00:00,Inactive
+713,Reseller_0713,+918239534867,Ludhiana,Punjab,Tier 2,2023-05-23 12:00:00,Active
+714,Reseller_0714,+918934257315,Chennai,Tamil Nadu,Tier 1,2023-05-24 00:00:00,Churned
+715,Reseller_0715,+919676802207,Allahabad,Uttar Pradesh,Tier 3,2023-05-24 12:00:00,Churned
+716,Reseller_0716,+917552605034,Rajkot,Gujarat,Tier 3,2023-05-25 00:00:00,Active
+717,Reseller_0717,+918602874642,Gwalior,Madhya Pradesh,Tier 3,2023-05-25 12:00:00,Active
+718,Reseller_0718,+919395869480,Ranchi,Jharkhand,Tier 3,2023-05-26 00:00:00,Active
+719,Reseller_0719,+917854947088,Varanasi,Uttar Pradesh,Tier 3,2023-05-26 12:00:00,Active
+720,Reseller_0720,+919147818256,Gwalior,Madhya Pradesh,Tier 3,2023-05-27 00:00:00,Active
+721,Reseller_0721,+917588566728,Mumbai,Maharashtra,Tier 1,2023-05-27 12:00:00,Churned
+722,Reseller_0722,+919230517007,Jabalpur,Madhya Pradesh,Tier 3,2023-05-28 00:00:00,Active
+723,Reseller_0723,+919214080278,Agra,Uttar Pradesh,Tier 2,2023-05-28 12:00:00,Active
+724,Reseller_0724,+918368076065,Chennai,Tamil Nadu,Tier 1,2023-05-29 00:00:00,Churned
+725,Reseller_0725,+918285201700,Agra,Uttar Pradesh,Tier 2,2023-05-29 12:00:00,Inactive
+726,Reseller_0726,+919189205388,Ludhiana,Punjab,Tier 2,2023-05-30 00:00:00,Active
+727,Reseller_0727,+919417741295,Visakhapatnam,Andhra Pradesh,Tier 2,2023-05-30 12:00:00,Active
+728,Reseller_0728,+918582084743,Jaipur,Rajasthan,Tier 2,2023-05-31 00:00:00,Active
+729,Reseller_0729,+918789026838,Lucknow,Uttar Pradesh,Tier 2,2023-05-31 12:00:00,Inactive
+730,Reseller_0730,+919955124970,Visakhapatnam,Andhra Pradesh,Tier 2,2023-06-01 00:00:00,Active
+731,Reseller_0731,+919038349447,Jodhpur,Rajasthan,Tier 3,2023-06-01 12:00:00,Active
+732,Reseller_0732,+919484528348,Kochi,Kerala,Tier 2,2023-06-02 00:00:00,Churned
+733,Reseller_0733,+917220568746,Visakhapatnam,Andhra Pradesh,Tier 2,2023-06-02 12:00:00,Active
+734,Reseller_0734,+919251560728,Indore,Madhya Pradesh,Tier 2,2023-06-03 00:00:00,Churned
+735,Reseller_0735,+918632905061,Jodhpur,Rajasthan,Tier 3,2023-06-03 12:00:00,Churned
+736,Reseller_0736,+918040226318,Kolkata,West Bengal,Tier 1,2023-06-04 00:00:00,Active
+737,Reseller_0737,+917471997674,Kolkata,West Bengal,Tier 1,2023-06-04 12:00:00,Churned
+738,Reseller_0738,+918347298951,Coimbatore,Tamil Nadu,Tier 2,2023-06-05 00:00:00,Active
+739,Reseller_0739,+919965676060,Vadodara,Gujarat,Tier 2,2023-06-05 12:00:00,Churned
+740,Reseller_0740,+919626278260,Ludhiana,Punjab,Tier 2,2023-06-06 00:00:00,Inactive
+741,Reseller_0741,+917267496095,Mysore,Karnataka,Tier 3,2023-06-06 12:00:00,Inactive
+742,Reseller_0742,+917890525840,Vijayawada,Andhra Pradesh,Tier 3,2023-06-07 00:00:00,Active
+743,Reseller_0743,+919054587733,Kochi,Kerala,Tier 2,2023-06-07 12:00:00,Churned
+744,Reseller_0744,+917743812855,Nagpur,Maharashtra,Tier 2,2023-06-08 00:00:00,Inactive
+745,Reseller_0745,+918470283342,Ludhiana,Punjab,Tier 2,2023-06-08 12:00:00,Active
+746,Reseller_0746,+919923781318,Kochi,Kerala,Tier 2,2023-06-09 00:00:00,Churned
+747,Reseller_0747,+918135426914,Mysore,Karnataka,Tier 3,2023-06-09 12:00:00,Active
+748,Reseller_0748,+918058791632,Amritsar,Punjab,Tier 3,2023-06-10 00:00:00,Active
+749,Reseller_0749,+917965796553,Patna,Bihar,Tier 2,2023-06-10 12:00:00,Active
+750,Reseller_0750,+918241263320,Allahabad,Uttar Pradesh,Tier 3,2023-06-11 00:00:00,Active
+751,Reseller_0751,+919100252248,Mysore,Karnataka,Tier 3,2023-06-11 12:00:00,Active
+752,Reseller_0752,+919407275865,Nagpur,Maharashtra,Tier 2,2023-06-12 00:00:00,Churned
+753,Reseller_0753,+918174491176,Mysore,Karnataka,Tier 3,2023-06-12 12:00:00,Active
+754,Reseller_0754,+919906070430,Agra,Uttar Pradesh,Tier 2,2023-06-13 00:00:00,Inactive
+755,Reseller_0755,+918482342139,Vadodara,Gujarat,Tier 2,2023-06-13 12:00:00,Active
+756,Reseller_0756,+918247484671,Varanasi,Uttar Pradesh,Tier 3,2023-06-14 00:00:00,Churned
+757,Reseller_0757,+917339428835,Kolkata,West Bengal,Tier 1,2023-06-14 12:00:00,Churned
+758,Reseller_0758,+919817378520,Coimbatore,Tamil Nadu,Tier 2,2023-06-15 00:00:00,Active
+759,Reseller_0759,+917919066362,Coimbatore,Tamil Nadu,Tier 2,2023-06-15 12:00:00,Churned
+760,Reseller_0760,+918164506150,Ludhiana,Punjab,Tier 2,2023-06-16 00:00:00,Active
+761,Reseller_0761,+918166605339,Mysore,Karnataka,Tier 3,2023-06-16 12:00:00,Inactive
+762,Reseller_0762,+919520417815,Chennai,Tamil Nadu,Tier 1,2023-06-17 00:00:00,Active
+763,Reseller_0763,+919876914972,Jaipur,Rajasthan,Tier 2,2023-06-17 12:00:00,Churned
+764,Reseller_0764,+919739951076,Amritsar,Punjab,Tier 3,2023-06-18 00:00:00,Active
+765,Reseller_0765,+918775115854,Lucknow,Uttar Pradesh,Tier 2,2023-06-18 12:00:00,Inactive
+766,Reseller_0766,+917431837075,Coimbatore,Tamil Nadu,Tier 2,2023-06-19 00:00:00,Inactive
+767,Reseller_0767,+917022254113,Varanasi,Uttar Pradesh,Tier 3,2023-06-19 12:00:00,Active
+768,Reseller_0768,+918747654202,Varanasi,Uttar Pradesh,Tier 3,2023-06-20 00:00:00,Active
+769,Reseller_0769,+919050625761,Jabalpur,Madhya Pradesh,Tier 3,2023-06-20 12:00:00,Active
+770,Reseller_0770,+918379404786,Allahabad,Uttar Pradesh,Tier 3,2023-06-21 00:00:00,Active
+771,Reseller_0771,+917384230848,Jaipur,Rajasthan,Tier 2,2023-06-21 12:00:00,Inactive
+772,Reseller_0772,+919298461504,Amritsar,Punjab,Tier 3,2023-06-22 00:00:00,Active
+773,Reseller_0773,+917751897503,Meerut,Uttar Pradesh,Tier 3,2023-06-22 12:00:00,Active
+774,Reseller_0774,+917156078445,Indore,Madhya Pradesh,Tier 2,2023-06-23 00:00:00,Active
+775,Reseller_0775,+919127657643,Gwalior,Madhya Pradesh,Tier 3,2023-06-23 12:00:00,Inactive
+776,Reseller_0776,+918243251189,Visakhapatnam,Andhra Pradesh,Tier 2,2023-06-24 00:00:00,Active
+777,Reseller_0777,+918281584789,Meerut,Uttar Pradesh,Tier 3,2023-06-24 12:00:00,Active
+778,Reseller_0778,+918438994940,Lucknow,Uttar Pradesh,Tier 2,2023-06-25 00:00:00,Active
+779,Reseller_0779,+919333457812,Kochi,Kerala,Tier 2,2023-06-25 12:00:00,Active
+780,Reseller_0780,+919165576952,Indore,Madhya Pradesh,Tier 2,2023-06-26 00:00:00,Inactive
+781,Reseller_0781,+917483814153,Bhopal,Madhya Pradesh,Tier 2,2023-06-26 12:00:00,Active
+782,Reseller_0782,+918971022633,Visakhapatnam,Andhra Pradesh,Tier 2,2023-06-27 00:00:00,Active
+783,Reseller_0783,+917799718923,Mysore,Karnataka,Tier 3,2023-06-27 12:00:00,Inactive
+784,Reseller_0784,+918267119521,Bangalore,Karnataka,Tier 1,2023-06-28 00:00:00,Inactive
+785,Reseller_0785,+917753744909,Bhopal,Madhya Pradesh,Tier 2,2023-06-28 12:00:00,Active
+786,Reseller_0786,+918741567887,Raipur,Chhattisgarh,Tier 3,2023-06-29 00:00:00,Inactive
+787,Reseller_0787,+918408434291,Vijayawada,Andhra Pradesh,Tier 3,2023-06-29 12:00:00,Churned
+788,Reseller_0788,+917409675904,Kolkata,West Bengal,Tier 1,2023-06-30 00:00:00,Active
+789,Reseller_0789,+919050649750,Indore,Madhya Pradesh,Tier 2,2023-06-30 12:00:00,Inactive
+790,Reseller_0790,+917029335155,Bhopal,Madhya Pradesh,Tier 2,2023-07-01 00:00:00,Inactive
+791,Reseller_0791,+918918714457,Bhopal,Madhya Pradesh,Tier 2,2023-07-01 12:00:00,Active
+792,Reseller_0792,+918296847488,Ranchi,Jharkhand,Tier 3,2023-07-02 00:00:00,Active
+793,Reseller_0793,+917049116110,Agra,Uttar Pradesh,Tier 2,2023-07-02 12:00:00,Active
+794,Reseller_0794,+919975418439,Nagpur,Maharashtra,Tier 2,2023-07-03 00:00:00,Churned
+795,Reseller_0795,+917507771858,Kochi,Kerala,Tier 2,2023-07-03 12:00:00,Churned
+796,Reseller_0796,+918741251076,Indore,Madhya Pradesh,Tier 2,2023-07-04 00:00:00,Inactive
+797,Reseller_0797,+918335640103,Mysore,Karnataka,Tier 3,2023-07-04 12:00:00,Active
+798,Reseller_0798,+918267176863,Raipur,Chhattisgarh,Tier 3,2023-07-05 00:00:00,Inactive
+799,Reseller_0799,+917941150163,Bhopal,Madhya Pradesh,Tier 2,2023-07-05 12:00:00,Inactive
+800,Reseller_0800,+917657926994,Jabalpur,Madhya Pradesh,Tier 3,2023-07-06 00:00:00,Active
+801,Reseller_0801,+918604706474,Agra,Uttar Pradesh,Tier 2,2023-07-06 12:00:00,Active
+802,Reseller_0802,+919022191192,Ludhiana,Punjab,Tier 2,2023-07-07 00:00:00,Inactive
+803,Reseller_0803,+917938070754,Raipur,Chhattisgarh,Tier 3,2023-07-07 12:00:00,Active
+804,Reseller_0804,+919559003646,Raipur,Chhattisgarh,Tier 3,2023-07-08 00:00:00,Inactive
+805,Reseller_0805,+919257033897,Rajkot,Gujarat,Tier 3,2023-07-08 12:00:00,Active
+806,Reseller_0806,+918553854176,Visakhapatnam,Andhra Pradesh,Tier 2,2023-07-09 00:00:00,Active
+807,Reseller_0807,+917481933114,Chennai,Tamil Nadu,Tier 1,2023-07-09 12:00:00,Active
+808,Reseller_0808,+919171050399,Chennai,Tamil Nadu,Tier 1,2023-07-10 00:00:00,Active
+809,Reseller_0809,+917643611097,Ludhiana,Punjab,Tier 2,2023-07-10 12:00:00,Churned
+810,Reseller_0810,+918897690739,Ludhiana,Punjab,Tier 2,2023-07-11 00:00:00,Active
+811,Reseller_0811,+919504600194,Delhi,Delhi,Tier 1,2023-07-11 12:00:00,Churned
+812,Reseller_0812,+918913333579,Ludhiana,Punjab,Tier 2,2023-07-12 00:00:00,Active
+813,Reseller_0813,+917566696611,Jabalpur,Madhya Pradesh,Tier 3,2023-07-12 12:00:00,Inactive
+814,Reseller_0814,+919421980125,Coimbatore,Tamil Nadu,Tier 2,2023-07-13 00:00:00,Active
+815,Reseller_0815,+919889515311,Hyderabad,Telangana,Tier 1,2023-07-13 12:00:00,Inactive
+816,Reseller_0816,+917093503397,Mysore,Karnataka,Tier 3,2023-07-14 00:00:00,Inactive
+817,Reseller_0817,+917935878994,Jaipur,Rajasthan,Tier 2,2023-07-14 12:00:00,Active
+818,Reseller_0818,+918819766421,Jaipur,Rajasthan,Tier 2,2023-07-15 00:00:00,Active
+819,Reseller_0819,+919324279536,Lucknow,Uttar Pradesh,Tier 2,2023-07-15 12:00:00,Churned
+820,Reseller_0820,+919027530378,Rajkot,Gujarat,Tier 3,2023-07-16 00:00:00,Churned
+821,Reseller_0821,+917773013901,Hyderabad,Telangana,Tier 1,2023-07-16 12:00:00,Active
+822,Reseller_0822,+919774036963,Raipur,Chhattisgarh,Tier 3,2023-07-17 00:00:00,Inactive
+823,Reseller_0823,+918642737456,Ranchi,Jharkhand,Tier 3,2023-07-17 12:00:00,Churned
+824,Reseller_0824,+918613385303,Vadodara,Gujarat,Tier 2,2023-07-18 00:00:00,Churned
+825,Reseller_0825,+919316277000,Kolkata,West Bengal,Tier 1,2023-07-18 12:00:00,Churned
+826,Reseller_0826,+918493660313,Pune,Maharashtra,Tier 1,2023-07-19 00:00:00,Inactive
+827,Reseller_0827,+918688173960,Chennai,Tamil Nadu,Tier 1,2023-07-19 12:00:00,Active
+828,Reseller_0828,+917956447193,Visakhapatnam,Andhra Pradesh,Tier 2,2023-07-20 00:00:00,Active
+829,Reseller_0829,+918281459294,Meerut,Uttar Pradesh,Tier 3,2023-07-20 12:00:00,Active
+830,Reseller_0830,+919338374929,Visakhapatnam,Andhra Pradesh,Tier 2,2023-07-21 00:00:00,Inactive
+831,Reseller_0831,+917986399651,Vadodara,Gujarat,Tier 2,2023-07-21 12:00:00,Inactive
+832,Reseller_0832,+917666241244,Nagpur,Maharashtra,Tier 2,2023-07-22 00:00:00,Active
+833,Reseller_0833,+917484664056,Visakhapatnam,Andhra Pradesh,Tier 2,2023-07-22 12:00:00,Churned
+834,Reseller_0834,+918800624665,Kolkata,West Bengal,Tier 1,2023-07-23 00:00:00,Inactive
+835,Reseller_0835,+918033653860,Meerut,Uttar Pradesh,Tier 3,2023-07-23 12:00:00,Inactive
+836,Reseller_0836,+919550970716,Lucknow,Uttar Pradesh,Tier 2,2023-07-24 00:00:00,Active
+837,Reseller_0837,+919886319543,Chennai,Tamil Nadu,Tier 1,2023-07-24 12:00:00,Active
+838,Reseller_0838,+918051125170,Meerut,Uttar Pradesh,Tier 3,2023-07-25 00:00:00,Active
+839,Reseller_0839,+918885330933,Gwalior,Madhya Pradesh,Tier 3,2023-07-25 12:00:00,Active
+840,Reseller_0840,+917242425303,Bhopal,Madhya Pradesh,Tier 2,2023-07-26 00:00:00,Active
+841,Reseller_0841,+918005716063,Bangalore,Karnataka,Tier 1,2023-07-26 12:00:00,Active
+842,Reseller_0842,+919474375067,Mysore,Karnataka,Tier 3,2023-07-27 00:00:00,Active
+843,Reseller_0843,+919888502524,Agra,Uttar Pradesh,Tier 2,2023-07-27 12:00:00,Active
+844,Reseller_0844,+918296068379,Amritsar,Punjab,Tier 3,2023-07-28 00:00:00,Active
+845,Reseller_0845,+919238756255,Raipur,Chhattisgarh,Tier 3,2023-07-28 12:00:00,Inactive
+846,Reseller_0846,+918181777110,Patna,Bihar,Tier 2,2023-07-29 00:00:00,Active
+847,Reseller_0847,+917752191321,Chennai,Tamil Nadu,Tier 1,2023-07-29 12:00:00,Churned
+848,Reseller_0848,+919387360437,Gwalior,Madhya Pradesh,Tier 3,2023-07-30 00:00:00,Churned
+849,Reseller_0849,+919763021449,Nagpur,Maharashtra,Tier 2,2023-07-30 12:00:00,Active
+850,Reseller_0850,+918368954072,Vijayawada,Andhra Pradesh,Tier 3,2023-07-31 00:00:00,Active
+851,Reseller_0851,+917640884760,Gwalior,Madhya Pradesh,Tier 3,2023-07-31 12:00:00,Active
+852,Reseller_0852,+919310384304,Indore,Madhya Pradesh,Tier 2,2023-08-01 00:00:00,Inactive
+853,Reseller_0853,+918291653057,Bhopal,Madhya Pradesh,Tier 2,2023-08-01 12:00:00,Inactive
+854,Reseller_0854,+918988677919,Varanasi,Uttar Pradesh,Tier 3,2023-08-02 00:00:00,Active
+855,Reseller_0855,+918772436303,Vijayawada,Andhra Pradesh,Tier 3,2023-08-02 12:00:00,Inactive
+856,Reseller_0856,+919276297510,Vijayawada,Andhra Pradesh,Tier 3,2023-08-03 00:00:00,Active
+857,Reseller_0857,+918095197958,Delhi,Delhi,Tier 1,2023-08-03 12:00:00,Active
+858,Reseller_0858,+917339604915,Kochi,Kerala,Tier 2,2023-08-04 00:00:00,Inactive
+859,Reseller_0859,+917397129827,Ranchi,Jharkhand,Tier 3,2023-08-04 12:00:00,Active
+860,Reseller_0860,+917221348142,Bhopal,Madhya Pradesh,Tier 2,2023-08-05 00:00:00,Inactive
+861,Reseller_0861,+919598323977,Kochi,Kerala,Tier 2,2023-08-05 12:00:00,Active
+862,Reseller_0862,+917808155185,Rajkot,Gujarat,Tier 3,2023-08-06 00:00:00,Churned
+863,Reseller_0863,+919883858045,Jodhpur,Rajasthan,Tier 3,2023-08-06 12:00:00,Active
+864,Reseller_0864,+917897171779,Coimbatore,Tamil Nadu,Tier 2,2023-08-07 00:00:00,Active
+865,Reseller_0865,+918302182635,Ranchi,Jharkhand,Tier 3,2023-08-07 12:00:00,Inactive
+866,Reseller_0866,+917909707455,Meerut,Uttar Pradesh,Tier 3,2023-08-08 00:00:00,Active
+867,Reseller_0867,+917503869216,Mysore,Karnataka,Tier 3,2023-08-08 12:00:00,Churned
+868,Reseller_0868,+918041929790,Jabalpur,Madhya Pradesh,Tier 3,2023-08-09 00:00:00,Inactive
+869,Reseller_0869,+917878377268,Mysore,Karnataka,Tier 3,2023-08-09 12:00:00,Inactive
+870,Reseller_0870,+919371162526,Bhopal,Madhya Pradesh,Tier 2,2023-08-10 00:00:00,Inactive
+871,Reseller_0871,+918634929736,Patna,Bihar,Tier 2,2023-08-10 12:00:00,Churned
+872,Reseller_0872,+918543008060,Kochi,Kerala,Tier 2,2023-08-11 00:00:00,Churned
+873,Reseller_0873,+919202530266,Nagpur,Maharashtra,Tier 2,2023-08-11 12:00:00,Inactive
+874,Reseller_0874,+917423519117,Jabalpur,Madhya Pradesh,Tier 3,2023-08-12 00:00:00,Inactive
+875,Reseller_0875,+919016446001,Mysore,Karnataka,Tier 3,2023-08-12 12:00:00,Active
+876,Reseller_0876,+917872425923,Ranchi,Jharkhand,Tier 3,2023-08-13 00:00:00,Active
+877,Reseller_0877,+917196346343,Vadodara,Gujarat,Tier 2,2023-08-13 12:00:00,Inactive
+878,Reseller_0878,+917626733282,Bhopal,Madhya Pradesh,Tier 2,2023-08-14 00:00:00,Active
+879,Reseller_0879,+919508397912,Chennai,Tamil Nadu,Tier 1,2023-08-14 12:00:00,Active
+880,Reseller_0880,+918267841227,Vadodara,Gujarat,Tier 2,2023-08-15 00:00:00,Active
+881,Reseller_0881,+917987922467,Nagpur,Maharashtra,Tier 2,2023-08-15 12:00:00,Active
+882,Reseller_0882,+919144483523,Bhopal,Madhya Pradesh,Tier 2,2023-08-16 00:00:00,Inactive
+883,Reseller_0883,+918449827559,Kochi,Kerala,Tier 2,2023-08-16 12:00:00,Churned
+884,Reseller_0884,+919756056675,Coimbatore,Tamil Nadu,Tier 2,2023-08-17 00:00:00,Active
+885,Reseller_0885,+917722558006,Jabalpur,Madhya Pradesh,Tier 3,2023-08-17 12:00:00,Active
+886,Reseller_0886,+917726990714,Ranchi,Jharkhand,Tier 3,2023-08-18 00:00:00,Churned
+887,Reseller_0887,+919097302637,Chennai,Tamil Nadu,Tier 1,2023-08-18 12:00:00,Active
+888,Reseller_0888,+919756550636,Ludhiana,Punjab,Tier 2,2023-08-19 00:00:00,Inactive
+889,Reseller_0889,+917145271935,Vijayawada,Andhra Pradesh,Tier 3,2023-08-19 12:00:00,Active
+890,Reseller_0890,+919869963931,Rajkot,Gujarat,Tier 3,2023-08-20 00:00:00,Active
+891,Reseller_0891,+918771211118,Mumbai,Maharashtra,Tier 1,2023-08-20 12:00:00,Churned
+892,Reseller_0892,+917993998848,Kolkata,West Bengal,Tier 1,2023-08-21 00:00:00,Active
+893,Reseller_0893,+917039262289,Delhi,Delhi,Tier 1,2023-08-21 12:00:00,Inactive
+894,Reseller_0894,+918602884797,Coimbatore,Tamil Nadu,Tier 2,2023-08-22 00:00:00,Inactive
+895,Reseller_0895,+919863689749,Kolkata,West Bengal,Tier 1,2023-08-22 12:00:00,Active
+896,Reseller_0896,+919831604672,Jabalpur,Madhya Pradesh,Tier 3,2023-08-23 00:00:00,Inactive
+897,Reseller_0897,+919285835206,Jaipur,Rajasthan,Tier 2,2023-08-23 12:00:00,Churned
+898,Reseller_0898,+917071838242,Jaipur,Rajasthan,Tier 2,2023-08-24 00:00:00,Active
+899,Reseller_0899,+919300977631,Patna,Bihar,Tier 2,2023-08-24 12:00:00,Churned
+900,Reseller_0900,+919157001409,Meerut,Uttar Pradesh,Tier 3,2023-08-25 00:00:00,Inactive
+901,Reseller_0901,+918849297832,Raipur,Chhattisgarh,Tier 3,2023-08-25 12:00:00,Inactive
+902,Reseller_0902,+917459632043,Varanasi,Uttar Pradesh,Tier 3,2023-08-26 00:00:00,Inactive
+903,Reseller_0903,+917639509845,Vijayawada,Andhra Pradesh,Tier 3,2023-08-26 12:00:00,Active
+904,Reseller_0904,+919261111254,Agra,Uttar Pradesh,Tier 2,2023-08-27 00:00:00,Churned
+905,Reseller_0905,+918148151005,Nagpur,Maharashtra,Tier 2,2023-08-27 12:00:00,Churned
+906,Reseller_0906,+918602244331,Rajkot,Gujarat,Tier 3,2023-08-28 00:00:00,Inactive
+907,Reseller_0907,+919426665919,Jabalpur,Madhya Pradesh,Tier 3,2023-08-28 12:00:00,Inactive
+908,Reseller_0908,+917970049535,Visakhapatnam,Andhra Pradesh,Tier 2,2023-08-29 00:00:00,Inactive
+909,Reseller_0909,+919807773530,Lucknow,Uttar Pradesh,Tier 2,2023-08-29 12:00:00,Active
+910,Reseller_0910,+917136083924,Raipur,Chhattisgarh,Tier 3,2023-08-30 00:00:00,Inactive
+911,Reseller_0911,+918619930972,Hyderabad,Telangana,Tier 1,2023-08-30 12:00:00,Inactive
+912,Reseller_0912,+919734812163,Jaipur,Rajasthan,Tier 2,2023-08-31 00:00:00,Inactive
+913,Reseller_0913,+917355134188,Delhi,Delhi,Tier 1,2023-08-31 12:00:00,Inactive
+914,Reseller_0914,+919769855512,Vadodara,Gujarat,Tier 2,2023-09-01 00:00:00,Active
+915,Reseller_0915,+917409575959,Jodhpur,Rajasthan,Tier 3,2023-09-01 12:00:00,Active
+916,Reseller_0916,+917986839603,Meerut,Uttar Pradesh,Tier 3,2023-09-02 00:00:00,Active
+917,Reseller_0917,+919434319360,Visakhapatnam,Andhra Pradesh,Tier 2,2023-09-02 12:00:00,Active
+918,Reseller_0918,+917319322484,Jaipur,Rajasthan,Tier 2,2023-09-03 00:00:00,Inactive
+919,Reseller_0919,+919332299091,Allahabad,Uttar Pradesh,Tier 3,2023-09-03 12:00:00,Inactive
+920,Reseller_0920,+917770321709,Jaipur,Rajasthan,Tier 2,2023-09-04 00:00:00,Inactive
+921,Reseller_0921,+917067251004,Ranchi,Jharkhand,Tier 3,2023-09-04 12:00:00,Active
+922,Reseller_0922,+917619298045,Jodhpur,Rajasthan,Tier 3,2023-09-05 00:00:00,Inactive
+923,Reseller_0923,+918710668371,Mysore,Karnataka,Tier 3,2023-09-05 12:00:00,Active
+924,Reseller_0924,+917697718498,Allahabad,Uttar Pradesh,Tier 3,2023-09-06 00:00:00,Active
+925,Reseller_0925,+918671414897,Agra,Uttar Pradesh,Tier 2,2023-09-06 12:00:00,Inactive
+926,Reseller_0926,+918424768819,Vijayawada,Andhra Pradesh,Tier 3,2023-09-07 00:00:00,Churned
+927,Reseller_0927,+917601083212,Visakhapatnam,Andhra Pradesh,Tier 2,2023-09-07 12:00:00,Active
+928,Reseller_0928,+917336844365,Mysore,Karnataka,Tier 3,2023-09-08 00:00:00,Active
+929,Reseller_0929,+917230624431,Nagpur,Maharashtra,Tier 2,2023-09-08 12:00:00,Active
+930,Reseller_0930,+917326495888,Delhi,Delhi,Tier 1,2023-09-09 00:00:00,Active
+931,Reseller_0931,+919558119733,Agra,Uttar Pradesh,Tier 2,2023-09-09 12:00:00,Inactive
+932,Reseller_0932,+917127241247,Nagpur,Maharashtra,Tier 2,2023-09-10 00:00:00,Active
+933,Reseller_0933,+919107125807,Jabalpur,Madhya Pradesh,Tier 3,2023-09-10 12:00:00,Active
+934,Reseller_0934,+918612446667,Ludhiana,Punjab,Tier 2,2023-09-11 00:00:00,Active
+935,Reseller_0935,+919516314486,Kochi,Kerala,Tier 2,2023-09-11 12:00:00,Active
+936,Reseller_0936,+919656935034,Rajkot,Gujarat,Tier 3,2023-09-12 00:00:00,Active
+937,Reseller_0937,+917315708805,Bhopal,Madhya Pradesh,Tier 2,2023-09-12 12:00:00,Active
+938,Reseller_0938,+918632087531,Delhi,Delhi,Tier 1,2023-09-13 00:00:00,Active
+939,Reseller_0939,+917662614186,Raipur,Chhattisgarh,Tier 3,2023-09-13 12:00:00,Active
+940,Reseller_0940,+918549195708,Ranchi,Jharkhand,Tier 3,2023-09-14 00:00:00,Inactive
+941,Reseller_0941,+918323998648,Mumbai,Maharashtra,Tier 1,2023-09-14 12:00:00,Active
+942,Reseller_0942,+917439080604,Patna,Bihar,Tier 2,2023-09-15 00:00:00,Churned
+943,Reseller_0943,+918851042925,Delhi,Delhi,Tier 1,2023-09-15 12:00:00,Active
+944,Reseller_0944,+919200916676,Ludhiana,Punjab,Tier 2,2023-09-16 00:00:00,Inactive
+945,Reseller_0945,+917384909986,Jaipur,Rajasthan,Tier 2,2023-09-16 12:00:00,Inactive
+946,Reseller_0946,+919563771436,Lucknow,Uttar Pradesh,Tier 2,2023-09-17 00:00:00,Inactive
+947,Reseller_0947,+918654584280,Nagpur,Maharashtra,Tier 2,2023-09-17 12:00:00,Inactive
+948,Reseller_0948,+918665586415,Hyderabad,Telangana,Tier 1,2023-09-18 00:00:00,Active
+949,Reseller_0949,+919403191167,Mysore,Karnataka,Tier 3,2023-09-18 12:00:00,Active
+950,Reseller_0950,+919456551333,Amritsar,Punjab,Tier 3,2023-09-19 00:00:00,Active
+951,Reseller_0951,+918635231601,Kochi,Kerala,Tier 2,2023-09-19 12:00:00,Inactive
+952,Reseller_0952,+918293348937,Patna,Bihar,Tier 2,2023-09-20 00:00:00,Active
+953,Reseller_0953,+917271730355,Indore,Madhya Pradesh,Tier 2,2023-09-20 12:00:00,Active
+954,Reseller_0954,+918808620775,Patna,Bihar,Tier 2,2023-09-21 00:00:00,Inactive
+955,Reseller_0955,+918551019709,Lucknow,Uttar Pradesh,Tier 2,2023-09-21 12:00:00,Inactive
+956,Reseller_0956,+919684499242,Bhopal,Madhya Pradesh,Tier 2,2023-09-22 00:00:00,Inactive
+957,Reseller_0957,+917839873216,Agra,Uttar Pradesh,Tier 2,2023-09-22 12:00:00,Inactive
+958,Reseller_0958,+918308496151,Indore,Madhya Pradesh,Tier 2,2023-09-23 00:00:00,Churned
+959,Reseller_0959,+918426862057,Hyderabad,Telangana,Tier 1,2023-09-23 12:00:00,Active
+960,Reseller_0960,+918415370893,Gwalior,Madhya Pradesh,Tier 3,2023-09-24 00:00:00,Active
+961,Reseller_0961,+919796181989,Vadodara,Gujarat,Tier 2,2023-09-24 12:00:00,Active
+962,Reseller_0962,+918290359719,Varanasi,Uttar Pradesh,Tier 3,2023-09-25 00:00:00,Active
+963,Reseller_0963,+917862650571,Visakhapatnam,Andhra Pradesh,Tier 2,2023-09-25 12:00:00,Inactive
+964,Reseller_0964,+918710425977,Indore,Madhya Pradesh,Tier 2,2023-09-26 00:00:00,Active
+965,Reseller_0965,+919984820893,Allahabad,Uttar Pradesh,Tier 3,2023-09-26 12:00:00,Inactive
+966,Reseller_0966,+918041204430,Jodhpur,Rajasthan,Tier 3,2023-09-27 00:00:00,Active
+967,Reseller_0967,+918687643539,Patna,Bihar,Tier 2,2023-09-27 12:00:00,Inactive
+968,Reseller_0968,+917858134663,Agra,Uttar Pradesh,Tier 2,2023-09-28 00:00:00,Inactive
+969,Reseller_0969,+917772781491,Ludhiana,Punjab,Tier 2,2023-09-28 12:00:00,Active
+970,Reseller_0970,+917115603785,Vijayawada,Andhra Pradesh,Tier 3,2023-09-29 00:00:00,Active
+971,Reseller_0971,+917900432998,Jabalpur,Madhya Pradesh,Tier 3,2023-09-29 12:00:00,Active
+972,Reseller_0972,+919975704877,Patna,Bihar,Tier 2,2023-09-30 00:00:00,Active
+973,Reseller_0973,+918757249751,Pune,Maharashtra,Tier 1,2023-09-30 12:00:00,Active
+974,Reseller_0974,+919720157590,Varanasi,Uttar Pradesh,Tier 3,2023-10-01 00:00:00,Active
+975,Reseller_0975,+919828935922,Patna,Bihar,Tier 2,2023-10-01 12:00:00,Active
+976,Reseller_0976,+918619163247,Vadodara,Gujarat,Tier 2,2023-10-02 00:00:00,Inactive
+977,Reseller_0977,+919058297345,Chennai,Tamil Nadu,Tier 1,2023-10-02 12:00:00,Inactive
+978,Reseller_0978,+919175884729,Ludhiana,Punjab,Tier 2,2023-10-03 00:00:00,Inactive
+979,Reseller_0979,+918796587803,Mysore,Karnataka,Tier 3,2023-10-03 12:00:00,Active
+980,Reseller_0980,+919305993661,Nagpur,Maharashtra,Tier 2,2023-10-04 00:00:00,Inactive
+981,Reseller_0981,+917469738105,Lucknow,Uttar Pradesh,Tier 2,2023-10-04 12:00:00,Active
+982,Reseller_0982,+919854838525,Raipur,Chhattisgarh,Tier 3,2023-10-05 00:00:00,Active
+983,Reseller_0983,+919631431563,Kochi,Kerala,Tier 2,2023-10-05 12:00:00,Churned
+984,Reseller_0984,+919909719639,Kolkata,West Bengal,Tier 1,2023-10-06 00:00:00,Active
+985,Reseller_0985,+918848792488,Ranchi,Jharkhand,Tier 3,2023-10-06 12:00:00,Inactive
+986,Reseller_0986,+918111272861,Mumbai,Maharashtra,Tier 1,2023-10-07 00:00:00,Inactive
+987,Reseller_0987,+919228219449,Visakhapatnam,Andhra Pradesh,Tier 2,2023-10-07 12:00:00,Active
+988,Reseller_0988,+919470617247,Visakhapatnam,Andhra Pradesh,Tier 2,2023-10-08 00:00:00,Active
+989,Reseller_0989,+918679908454,Nagpur,Maharashtra,Tier 2,2023-10-08 12:00:00,Active
+990,Reseller_0990,+919527974623,Kochi,Kerala,Tier 2,2023-10-09 00:00:00,Churned
+991,Reseller_0991,+918481623643,Varanasi,Uttar Pradesh,Tier 3,2023-10-09 12:00:00,Active
+992,Reseller_0992,+917449036081,Jabalpur,Madhya Pradesh,Tier 3,2023-10-10 00:00:00,Active
+993,Reseller_0993,+917498513988,Lucknow,Uttar Pradesh,Tier 2,2023-10-10 12:00:00,Active
+994,Reseller_0994,+917608490241,Mysore,Karnataka,Tier 3,2023-10-11 00:00:00,Inactive
+995,Reseller_0995,+918955638763,Nagpur,Maharashtra,Tier 2,2023-10-11 12:00:00,Active
+996,Reseller_0996,+919074151376,Vijayawada,Andhra Pradesh,Tier 3,2023-10-12 00:00:00,Active
+997,Reseller_0997,+918881908383,Lucknow,Uttar Pradesh,Tier 2,2023-10-12 12:00:00,Inactive
+998,Reseller_0998,+918369705770,Jabalpur,Madhya Pradesh,Tier 3,2023-10-13 00:00:00,Churned
+999,Reseller_0999,+917494287462,Mumbai,Maharashtra,Tier 1,2023-10-13 12:00:00,Active
+1000,Reseller_1000,+919783009621,Bangalore,Karnataka,Tier 1,2023-10-14 00:00:00,Active

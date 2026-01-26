@@ -1,0 +1,151 @@
+supplier_id,supplier_name,city,state,registration_date,supplier_tier,avg_rating
+1,Supplier_001,Ludhiana,Punjab,2021-01-04,Bronze,3.76
+2,Supplier_002,Tirupur,Tamil Nadu,2021-01-07,Silver,3.72
+3,Supplier_003,Surat,Gujarat,2021-01-10,Gold,4.14
+4,Supplier_004,Bangalore,Karnataka,2021-01-13,Silver,4.49
+5,Supplier_005,Ahmedabad,Gujarat,2021-01-16,Gold,4.51
+6,Supplier_006,Ahmedabad,Gujarat,2021-01-19,Gold,4.89
+7,Supplier_007,Delhi,Delhi,2021-01-22,Silver,4.23
+8,Supplier_008,Panipat,Haryana,2021-01-25,Gold,4.23
+9,Supplier_009,Chennai,Tamil Nadu,2021-01-28,Gold,4.86
+10,Supplier_010,Surat,Gujarat,2021-01-31,Silver,4.88
+11,Supplier_011,Indore,Madhya Pradesh,2021-02-03,Gold,4.35
+12,Supplier_012,Bangalore,Karnataka,2021-02-06,Silver,3.52
+13,Supplier_013,Indore,Madhya Pradesh,2021-02-09,Bronze,4.63
+14,Supplier_014,Indore,Madhya Pradesh,2021-02-12,Gold,3.82
+15,Supplier_015,Panipat,Haryana,2021-02-15,Silver,3.67
+16,Supplier_016,Tirupur,Tamil Nadu,2021-02-18,Gold,4.77
+17,Supplier_017,Jaipur,Rajasthan,2021-02-21,Gold,4.56
+18,Supplier_018,Ahmedabad,Gujarat,2021-02-24,Silver,4.29
+19,Supplier_019,Mumbai,Maharashtra,2021-02-27,Bronze,4.82
+20,Supplier_020,Jaipur,Rajasthan,2021-03-02,Silver,4.79
+21,Supplier_021,Tirupur,Tamil Nadu,2021-03-05,Silver,4.23
+22,Supplier_022,Tirupur,Tamil Nadu,2021-03-08,Bronze,4.55
+23,Supplier_023,Bangalore,Karnataka,2021-03-11,Silver,4.85
+24,Supplier_024,Panipat,Haryana,2021-03-14,Silver,3.7
+25,Supplier_025,Delhi,Delhi,2021-03-17,Gold,4.09
+26,Supplier_026,Delhi,Delhi,2021-03-20,Gold,3.51
+27,Supplier_027,Kolkata,West Bengal,2021-03-23,Gold,4.5
+28,Supplier_028,Surat,Gujarat,2021-03-26,Bronze,3.6
+29,Supplier_029,Ludhiana,Punjab,2021-03-29,Silver,4.78
+30,Supplier_030,Indore,Madhya Pradesh,2021-04-01,Silver,3.96
+31,Supplier_031,Ludhiana,Punjab,2021-04-04,Silver,3.96
+32,Supplier_032,Surat,Gujarat,2021-04-07,Silver,3.88
+33,Supplier_033,Surat,Gujarat,2021-04-10,Silver,3.67
+34,Supplier_034,Surat,Gujarat,2021-04-13,Bronze,4.29
+35,Supplier_035,Ludhiana,Punjab,2021-04-16,Gold,4.49
+36,Supplier_036,Chennai,Tamil Nadu,2021-04-19,Gold,3.65
+37,Supplier_037,Ludhiana,Punjab,2021-04-22,Silver,4.29
+38,Supplier_038,Jaipur,Rajasthan,2021-04-25,Bronze,3.85
+39,Supplier_039,Kolkata,West Bengal,2021-04-28,Silver,4.82
+40,Supplier_040,Ludhiana,Punjab,2021-05-01,Silver,3.73
+41,Supplier_041,Mumbai,Maharashtra,2021-05-04,Silver,3.91
+42,Supplier_042,Bangalore,Karnataka,2021-05-07,Bronze,4.63
+43,Supplier_043,Panipat,Haryana,2021-05-10,Silver,4.74
+44,Supplier_044,Chennai,Tamil Nadu,2021-05-13,Gold,4.0
+45,Supplier_045,Delhi,Delhi,2021-05-16,Silver,4.41
+46,Supplier_046,Indore,Madhya Pradesh,2021-05-19,Bronze,4.71
+47,Supplier_047,Ludhiana,Punjab,2021-05-22,Gold,4.25
+48,Supplier_048,Bangalore,Karnataka,2021-05-25,Silver,3.88
+49,Supplier_049,Tirupur,Tamil Nadu,2021-05-28,Bronze,3.95
+50,Supplier_050,Tirupur,Tamil Nadu,2021-05-31,Bronze,4.01
+51,Supplier_051,Delhi,Delhi,2021-06-03,Silver,3.85
+52,Supplier_052,Ludhiana,Punjab,2021-06-06,Silver,3.92
+53,Supplier_053,Delhi,Delhi,2021-06-09,Bronze,3.87
+54,Supplier_054,Mumbai,Maharashtra,2021-06-12,Silver,3.57
+55,Supplier_055,Bangalore,Karnataka,2021-06-15,Silver,4.39
+56,Supplier_056,Mumbai,Maharashtra,2021-06-18,Silver,4.13
+57,Supplier_057,Ahmedabad,Gujarat,2021-06-21,Silver,4.44
+58,Supplier_058,Kolkata,West Bengal,2021-06-24,Silver,3.84
+59,Supplier_059,Ahmedabad,Gujarat,2021-06-27,Silver,4.39
+60,Supplier_060,Ahmedabad,Gujarat,2021-06-30,Silver,4.64
+61,Supplier_061,Delhi,Delhi,2021-07-03,Gold,4.21
+62,Supplier_062,Surat,Gujarat,2021-07-06,Silver,4.45
+63,Supplier_063,Surat,Gujarat,2021-07-09,Bronze,4.63
+64,Supplier_064,Jaipur,Rajasthan,2021-07-12,Silver,3.74
+65,Supplier_065,Delhi,Delhi,2021-07-15,Silver,4.22
+66,Supplier_066,Tirupur,Tamil Nadu,2021-07-18,Gold,3.98
+67,Supplier_067,Indore,Madhya Pradesh,2021-07-21,Silver,4.26
+68,Supplier_068,Chennai,Tamil Nadu,2021-07-24,Silver,4.42
+69,Supplier_069,Chennai,Tamil Nadu,2021-07-27,Bronze,4.22
+70,Supplier_070,Delhi,Delhi,2021-07-30,Silver,3.63
+71,Supplier_071,Panipat,Haryana,2021-08-02,Silver,4.74
+72,Supplier_072,Ludhiana,Punjab,2021-08-05,Silver,3.99
+73,Supplier_073,Surat,Gujarat,2021-08-08,Bronze,4.07
+74,Supplier_074,Delhi,Delhi,2021-08-11,Silver,3.62
+75,Supplier_075,Tirupur,Tamil Nadu,2021-08-14,Bronze,4.44
+76,Supplier_076,Surat,Gujarat,2021-08-17,Silver,4.82
+77,Supplier_077,Indore,Madhya Pradesh,2021-08-20,Gold,3.73
+78,Supplier_078,Mumbai,Maharashtra,2021-08-23,Silver,4.13
+79,Supplier_079,Indore,Madhya Pradesh,2021-08-26,Gold,3.53
+80,Supplier_080,Bangalore,Karnataka,2021-08-29,Gold,4.01
+81,Supplier_081,Tirupur,Tamil Nadu,2021-09-01,Bronze,4.42
+82,Supplier_082,Delhi,Delhi,2021-09-04,Silver,4.21
+83,Supplier_083,Ahmedabad,Gujarat,2021-09-07,Silver,3.84
+84,Supplier_084,Ahmedabad,Gujarat,2021-09-10,Bronze,4.18
+85,Supplier_085,Tirupur,Tamil Nadu,2021-09-13,Silver,4.61
+86,Supplier_086,Delhi,Delhi,2021-09-16,Silver,4.19
+87,Supplier_087,Bangalore,Karnataka,2021-09-19,Silver,4.2
+88,Supplier_088,Jaipur,Rajasthan,2021-09-22,Gold,4.4
+89,Supplier_089,Delhi,Delhi,2021-09-25,Bronze,4.16
+90,Supplier_090,Bangalore,Karnataka,2021-09-28,Bronze,4.55
+91,Supplier_091,Bangalore,Karnataka,2021-10-01,Bronze,4.1
+92,Supplier_092,Bangalore,Karnataka,2021-10-04,Silver,4.87
+93,Supplier_093,Jaipur,Rajasthan,2021-10-07,Silver,4.04
+94,Supplier_094,Ludhiana,Punjab,2021-10-10,Silver,4.18
+95,Supplier_095,Mumbai,Maharashtra,2021-10-13,Silver,4.81
+96,Supplier_096,Chennai,Tamil Nadu,2021-10-16,Bronze,3.6
+97,Supplier_097,Mumbai,Maharashtra,2021-10-19,Silver,4.89
+98,Supplier_098,Mumbai,Maharashtra,2021-10-22,Silver,3.91
+99,Supplier_099,Chennai,Tamil Nadu,2021-10-25,Bronze,4.48
+100,Supplier_100,Kolkata,West Bengal,2021-10-28,Bronze,4.27
+101,Supplier_101,Chennai,Tamil Nadu,2021-10-31,Bronze,4.63
+102,Supplier_102,Indore,Madhya Pradesh,2021-11-03,Silver,3.61
+103,Supplier_103,Ludhiana,Punjab,2021-11-06,Silver,4.62
+104,Supplier_104,Delhi,Delhi,2021-11-09,Gold,4.06
+105,Supplier_105,Panipat,Haryana,2021-11-12,Bronze,3.54
+106,Supplier_106,Mumbai,Maharashtra,2021-11-15,Gold,4.31
+107,Supplier_107,Ahmedabad,Gujarat,2021-11-18,Silver,3.72
+108,Supplier_108,Ahmedabad,Gujarat,2021-11-21,Silver,3.54
+109,Supplier_109,Jaipur,Rajasthan,2021-11-24,Gold,3.92
+110,Supplier_110,Kolkata,West Bengal,2021-11-27,Gold,4.23
+111,Supplier_111,Bangalore,Karnataka,2021-11-30,Silver,4.85
+112,Supplier_112,Ludhiana,Punjab,2021-12-03,Gold,3.57
+113,Supplier_113,Jaipur,Rajasthan,2021-12-06,Silver,4.48
+114,Supplier_114,Tirupur,Tamil Nadu,2021-12-09,Bronze,4.87
+115,Supplier_115,Panipat,Haryana,2021-12-12,Bronze,3.56
+116,Supplier_116,Tirupur,Tamil Nadu,2021-12-15,Silver,4.11
+117,Supplier_117,Ludhiana,Punjab,2021-12-18,Silver,3.76
+118,Supplier_118,Ludhiana,Punjab,2021-12-21,Silver,4.46
+119,Supplier_119,Delhi,Delhi,2021-12-24,Gold,3.72
+120,Supplier_120,Mumbai,Maharashtra,2021-12-27,Silver,3.63
+121,Supplier_121,Indore,Madhya Pradesh,2021-12-30,Silver,3.89
+122,Supplier_122,Ludhiana,Punjab,2022-01-02,Silver,4.11
+123,Supplier_123,Ludhiana,Punjab,2022-01-05,Gold,4.29
+124,Supplier_124,Surat,Gujarat,2022-01-08,Bronze,3.52
+125,Supplier_125,Panipat,Haryana,2022-01-11,Gold,3.56
+126,Supplier_126,Jaipur,Rajasthan,2022-01-14,Gold,3.52
+127,Supplier_127,Chennai,Tamil Nadu,2022-01-17,Silver,4.16
+128,Supplier_128,Delhi,Delhi,2022-01-20,Silver,4.41
+129,Supplier_129,Chennai,Tamil Nadu,2022-01-23,Silver,4.39
+130,Supplier_130,Mumbai,Maharashtra,2022-01-26,Silver,3.52
+131,Supplier_131,Surat,Gujarat,2022-01-29,Silver,4.7
+132,Supplier_132,Bangalore,Karnataka,2022-02-01,Silver,4.36
+133,Supplier_133,Ludhiana,Punjab,2022-02-04,Bronze,4.71
+134,Supplier_134,Kolkata,West Bengal,2022-02-07,Bronze,4.45
+135,Supplier_135,Surat,Gujarat,2022-02-10,Silver,4.14
+136,Supplier_136,Surat,Gujarat,2022-02-13,Bronze,4.38
+137,Supplier_137,Delhi,Delhi,2022-02-16,Bronze,4.77
+138,Supplier_138,Panipat,Haryana,2022-02-19,Silver,3.8
+139,Supplier_139,Mumbai,Maharashtra,2022-02-22,Gold,4.37
+140,Supplier_140,Ludhiana,Punjab,2022-02-25,Gold,3.95
+141,Supplier_141,Chennai,Tamil Nadu,2022-02-28,Silver,3.98
+142,Supplier_142,Surat,Gujarat,2022-03-03,Silver,3.67
+143,Supplier_143,Bangalore,Karnataka,2022-03-06,Silver,4.81
+144,Supplier_144,Tirupur,Tamil Nadu,2022-03-09,Bronze,4.62
+145,Supplier_145,Indore,Madhya Pradesh,2022-03-12,Silver,4.09
+146,Supplier_146,Tirupur,Tamil Nadu,2022-03-15,Bronze,4.89
+147,Supplier_147,Jaipur,Rajasthan,2022-03-18,Silver,4.59
+148,Supplier_148,Tirupur,Tamil Nadu,2022-03-21,Bronze,4.29
+149,Supplier_149,Panipat,Haryana,2022-03-24,Silver,4.55
+150,Supplier_150,Indore,Madhya Pradesh,2022-03-27,Silver,4.03
